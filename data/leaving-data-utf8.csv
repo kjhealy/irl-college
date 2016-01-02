@@ -1,0 +1,678 @@
+Fees,School,County,Sat2015,Uni2015,Progression,UCD,TCD,DCU,UL,Maynooth,NUIG,UCC,St Angelas,QUB,UU,Blanch.IT,NatColIrl,Dublin.IT,Tallaght.IT,Athlone.IT,Cork.IT,Dundalk.IT,GM.IT,IADT,Carlow.IT,Sligo.IT,Tralee.IT,Letterkenny.IT,Limerick.IT,W.IT,Marino,CoICollEd,MaryI,NCAD,RCSI,SCHM
+No,"St Leo's College, Dublin Road, Carlow",Carlow,134,135,1.007462687,5,15,12,6,17,4,4,1,0,0,0,0,4,0,3,1,0,1,2,34,0,2,0,1,22,0,0,0,0,1,0
+No,"Coláiste Eoin, Hacketstown, Co. Carlow",Carlow,28,25,0.892857143,2,0,3,2,0,4,0,0,0,0,1,1,0,0,0,0,0,0,2,7,0,0,0,0,3,0,0,0,0,0,0
+No,"St. Mary's Knockbeg College, Knockbeg, Carlow",Carlow,49,43,0.87755102,5,1,4,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,1,0,1,6,1,0,0,0,0,0
+No,"Gaelcholáiste Cheatharlach, Easca, Co. Ceatharlach",Carlow,57,50,0.877192982,5,5,6,1,10,1,1,0,0,0,0,0,2,0,0,0,0,0,2,8,0,0,0,0,5,1,0,0,2,1,0
+No,"St. Mary's Academy CBS, Railway Road, Carlow",Carlow,72,62,0.861111111,1,2,4,1,8,4,0,0,0,0,0,1,2,0,0,0,1,0,0,33,0,0,0,0,4,0,0,0,1,0,0
+No,"Presentation De La Salle Coll, Muine Bheag, Co Ceatharlach",Carlow,39,29,0.743589744,4,0,2,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,13,0,0,0,0,5,0,0,0,0,0,0
+No,"Borris Vocational School, Borris, Co. Carlow",Carlow,74,55,0.743243243,6,0,7,4,6,1,0,0,0,0,0,0,2,0,1,0,1,1,0,10,0,0,0,0,16,0,0,0,0,0,0
+No,"Presentation College, Carlow",Carlow,85,51,0.6,2,1,2,0,3,2,2,1,0,1,0,0,2,0,0,0,0,3,1,22,0,0,0,1,7,0,0,0,1,0,0
+No,"Community School, The MullBGn, Tullow, Carlow",Carlow,122,71,0.581967213,2,1,6,2,7,2,2,0,0,0,1,0,5,0,0,1,0,0,2,25,1,0,0,0,12,1,0,1,0,0,0
+No,"Muinebheag Vocational School, Muinebheag, Co. Carlow",Carlow,11,5,0.454545455,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,1,0,0,0,0,0,0
+No,"Carlow Vocational School, Carlow Inst. of Further Education, Kilkenny Road, Carlow",Carlow,98,31,0.316326531,2,2,0,0,7,0,6,0,0,0,0,0,0,0,1,0,1,1,0,9,0,0,0,0,1,1,0,0,0,0,0
+No,"St. Patrick's College Cavan, Cullies, Cavan, Co Cavan",Cavan,98,93,0.948979592,11,1,17,0,7,7,0,0,0,1,1,2,18,0,3,0,4,6,1,0,11,0,0,2,0,1,0,0,0,0,0
+No,"Coláiste Loreto, Loreto College, Cavan",Cavan,137,130,0.948905109,16,8,20,1,18,20,2,2,0,2,2,2,9,0,2,0,4,2,0,1,11,0,5,0,0,2,0,0,0,1,0
+Yes,"Royal School, College Street, Cavan",Cavan,43,35,0.813953488,4,4,1,1,5,1,0,0,1,0,2,0,3,0,1,0,4,0,1,0,6,0,0,0,0,0,1,0,0,0,0
+No,"Virginia College, Virginia, Co. Cavan",Cavan,109,84,0.770642202,5,2,10,1,20,7,0,0,0,0,2,0,10,2,5,0,9,0,0,1,9,0,0,1,0,0,0,0,0,0,0
+No,"St Aidan's Comprehensive School, Coothill, Co Cavan",Cavan,70,51,0.728571429,5,3,4,0,3,1,0,0,0,0,0,0,7,0,2,1,10,2,0,0,7,0,3,1,0,1,1,0,0,0,0
+No,"St. Mogue's College, BBGnboy, Belturbet, Co. Cavan",Cavan,28,20,0.714285714,2,1,7,0,2,1,0,1,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+No,"St. Clare's College, Ballyjamesduff, Co. Cavan",Cavan,70,50,0.714285714,2,1,7,4,0,6,2,0,0,0,4,0,2,1,2,0,4,3,0,2,3,0,2,1,2,2,0,0,0,0,0
+No,"Bailieborough Community School, Virginia Road, Bailieborough, Co. Cavan",Cavan,101,64,0.633663366,2,4,11,1,8,2,0,0,0,0,0,0,6,2,2,0,14,6,0,0,4,0,1,1,0,0,0,0,0,0,0
+No,"Breifne College, Cootehill Road, Cavan",Cavan,100,50,0.5,0,0,3,1,5,8,0,0,0,0,1,0,4,1,4,0,4,5,0,0,9,0,5,0,0,0,0,0,0,0,0
+No,"St. Bricin's College, Railway Road, Belturbert, Co Cavan",Cavan,14,7,0.5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0
+No,"Kilmihil Community College, Kilmihil, Co. Clare",Clare,18,34,1.888888889,1,0,0,8,0,1,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,4,1,12,1,0,0,1,0,0,0
+No,"Mean Scoil na mBraithre, C.B.S., Ennistymon, Co. Clare",Clare,21,24,1.142857143,0,0,0,10,0,3,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,6,0,0,0,1,0,0,0
+No,"Rice College, Christian Brothers, New Road, Ennis",Clare,114,113,0.99122807,2,1,4,22,0,23,11,0,0,0,0,0,2,0,3,3,0,14,1,1,0,3,0,13,0,0,0,9,0,0,1
+No,"Ard Scoil Naomh Mhuire, Inis Diomain, Inis, Co An Chlair",Clare,50,49,0.98,2,2,0,16,0,5,4,1,0,0,0,0,1,0,1,2,0,3,0,0,1,0,1,4,0,0,0,5,0,0,1
+No,"Scoil Sheosaimh, Rinn na Spainneach, Sraid na Cathrach, Inis",Clare,40,37,0.925,3,1,0,9,0,7,4,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,3,0,0,0,3,0,0,2
+No,"Ennis Community College, Harmony Row, Ennis, Co Clare",Clare,38,35,0.921052632,0,3,0,7,0,3,6,0,0,0,0,0,1,0,0,1,0,6,0,1,0,1,0,3,0,0,0,3,0,0,0
+No,"St Anne's Community College, Killaloe, Co. Clare",Clare,86,79,0.918604651,5,1,2,24,1,4,3,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,23,1,0,0,11,0,0,0
+No,"St John Bosco Community College, Kildysart, Ennis, Co. Clare",Clare,33,30,0.909090909,0,1,0,8,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,1,0,0,3,0,0,0
+No,"Mary Immaculate Secondary School, Liosduin Bhearna, Inis, Co An Chlair",Clare,41,37,0.902439024,1,0,0,8,2,5,1,0,0,0,0,0,2,0,0,2,0,7,2,1,0,0,0,4,0,1,0,1,0,0,0
+No,"Coláiste Muire, College Rd, Ennis, Co. Clare",Clare,107,96,0.897196262,8,8,1,16,0,14,10,1,0,0,1,0,0,0,1,2,0,8,0,0,2,6,0,10,1,0,0,7,0,0,0
+No,"Coláiste Fhlannain, Inis, Co An Chlair",Clare,254,217,0.854330709,5,7,2,64,0,28,19,0,0,0,0,0,1,0,2,4,0,23,0,1,1,5,0,38,0,0,0,15,0,0,2
+No,"Kilrush Community School, Kilrush, Co Clare",Clare,73,61,0.835616438,1,0,0,11,0,10,4,0,0,0,0,0,0,0,1,1,0,7,0,0,0,7,0,13,0,0,0,6,0,0,0
+No,"St Caimin's Community School, Tullyvarraga, Shannon, Co. Clare",Clare,133,109,0.819548872,5,1,0,25,0,6,4,3,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,46,3,0,0,13,0,0,0
+No,"Scoil Ioseph, An Tulach, Inis, Co An Chlair",Clare,72,57,0.791666667,1,0,0,15,0,9,6,0,0,0,0,0,0,0,1,1,0,6,0,0,1,0,0,9,2,0,0,5,1,0,0
+No,"Ennistymon Vocational School, Ennistymon, Co. Clare",Clare,23,18,0.782608696,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,1,5,0,1,0,1,0,6,0,0,0,0,0,0,1
+No,"Kilkee Community School, Carrigaholt Road, Kilkee, Co Clare",Clare,46,33,0.717391304,0,0,2,5,0,4,1,0,0,0,0,0,1,0,0,0,0,6,0,0,0,1,0,11,0,0,0,2,0,0,0
+No,"Scariff Community College, Scariff, Co. Clare",Clare,58,41,0.706896552,2,1,0,6,2,10,3,0,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,8,0,0,0,4,0,0,0
+No,"St Patrick's Comprehensive Sch, Shannon, Co Clare",Clare,102,64,0.62745098,2,0,0,16,1,7,3,0,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0,27,0,1,0,1,1,0,1
+Yes,"Christian Brothers College, Sidney Hill,, Wellington Road, Cork",Cork,119,130,1.092436975,2,5,1,1,0,2,91,0,0,0,0,0,0,0,0,23,0,1,0,0,1,0,0,1,0,0,0,2,0,0,0
+Yes,"Presentation College, Mardyke, Cork City",Cork,105,114,1.085714286,1,5,0,2,0,2,86,0,0,0,0,1,0,0,0,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+No,"Ursuline Secondary  School, Blackrock, Cork",Cork,20,20,1,0,0,1,0,0,0,13,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+No,"Coláiste an Phiarsaigh, Gleann Maghair, Cathair Chorcai",Cork,93,91,0.978494624,4,2,0,5,0,2,48,0,0,0,0,0,1,0,0,18,0,0,0,0,0,2,0,3,1,0,0,5,0,0,0
+No,"Millstreet Community School, Millstreet Town, Co.Cork",Cork,33,32,0.96969697,0,0,0,1,0,1,6,0,0,0,0,0,1,0,0,18,0,0,0,0,0,1,0,1,0,0,0,3,0,0,0
+No,"Coláiste an Spioraid Naoimh, Bishopstown, Cork",Cork,95,92,0.968421053,0,0,0,2,0,0,60,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Coláiste an Chroi Naofa, Carraig na Bhfear, Corcaigh",Cork,66,62,0.939393939,1,1,1,1,0,0,14,0,0,0,0,0,1,0,1,36,0,0,0,0,0,2,0,0,1,0,0,3,0,0,0
+No,"Loreto Secondary School, Fermoy, Co Cork",Cork,98,92,0.93877551,4,0,2,5,2,1,42,0,0,0,0,0,0,0,0,14,0,0,0,2,0,3,0,3,6,0,0,8,0,0,0
+No,"St Aloysius College, Carrigtwohill, Cork",Cork,108,101,0.935185185,5,1,1,0,2,2,56,0,0,0,0,0,0,0,0,22,0,1,0,0,0,0,0,1,4,0,0,5,0,1,0
+No,"Gaelcholáiste Mhuire (A.G), An Mhainistir Thuaidh, Corcaigh",Cork,74,69,0.932432432,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0
+No,"Presentation Secondary School, Mitchelstown, Mallow, Co Cork",Cork,53,49,0.924528302,2,0,1,3,0,2,15,2,0,0,0,0,1,0,0,8,0,0,0,1,0,0,0,1,9,0,0,3,0,0,1
+Yes,"Scoil Mhuire, 1/2/3 Sidney Place, Wellington Road, Cork City",Cork,66,61,0.924242424,1,2,0,1,0,5,47,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+No,"Coláiste Choilm, Ballincollig, Co. Cork",Cork,195,180,0.923076923,2,2,0,1,0,3,108,1,0,0,0,0,2,0,1,51,0,0,0,1,0,0,0,0,2,0,0,6,0,0,0
+No,"St Mary's Secondary School, Macroom, Co. Cork",Cork,63,58,0.920634921,0,0,0,8,0,1,29,2,0,0,1,0,0,0,0,9,0,0,0,0,0,1,0,2,2,0,0,3,0,0,0
+No,"St Fachtna's High School, North Street, Skibbereen, Co. Cork",Cork,60,55,0.916666667,3,1,0,2,0,1,14,0,0,0,0,0,2,0,0,27,1,1,0,0,0,0,0,1,1,0,0,1,0,0,0
+No,"Clonakilty Community College, Clonakilty, Co. Cork",Cork,70,64,0.914285714,2,2,0,4,0,1,24,0,0,0,0,0,1,0,0,27,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+No,"Hamilton High School, Laurel Walk, Bandon, Co Cork",Cork,58,53,0.913793103,1,0,0,2,0,0,31,0,0,0,0,0,1,0,0,11,0,0,0,0,0,2,0,0,3,0,0,2,0,0,0
+No,"Christian Brothers Secondary School, Mitchelstown, Co. Cork",Cork,57,52,0.912280702,0,1,0,15,0,0,16,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0
+No,"Coláiste Treasa, Kanturk, Mallow, Co. Cork",Cork,78,71,0.91025641,2,0,0,4,0,0,21,0,0,0,0,0,1,0,0,24,0,0,0,0,0,5,0,2,7,0,0,5,0,0,0
+No,"Kinsale Community School, Kinsale, Co. Cork",Cork,106,96,0.905660377,3,4,1,8,4,1,21,0,0,0,0,0,0,0,0,46,0,0,0,1,1,0,0,1,2,0,0,3,0,0,0
+No,"Patrician Academy, Mallow, Co Cork",Cork,48,43,0.895833333,2,1,0,2,1,1,13,0,0,0,0,0,0,0,0,13,0,1,0,1,0,4,0,0,1,0,0,2,0,0,1
+No,"St Angela's College, Griffith College Campus, Wellington Road, Cork",Cork,81,72,0.888888889,1,1,1,0,0,0,44,0,0,0,0,0,1,0,0,17,0,1,1,0,0,0,0,1,0,0,0,3,0,1,0
+No,"Sacred Heart Secondary School, Clonakilty, Co Cork",Cork,86,76,0.88372093,5,1,4,10,0,1,25,1,0,0,0,0,2,0,0,16,0,0,0,0,0,0,0,0,3,0,0,5,0,3,0
+No,"Mount St Michael's, Rosscarbery, Co Cork",Cork,60,53,0.883333333,4,2,1,3,0,2,16,0,0,0,0,0,3,0,1,13,0,0,1,0,1,0,0,0,5,0,0,1,0,0,0
+No,"Scoil Mhuire, Beal Athan Ghaorthaidh, Co Chorcaí",Cork,17,15,0.882352941,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,2,1,0,0,3,0,0,0
+No,"St Mary's Secondary School, Convent Of Mercy, Mallow, Co Cork",Cork,84,74,0.880952381,4,3,1,9,0,1,34,1,0,0,0,0,0,0,0,8,0,0,0,0,0,1,0,1,0,3,0,8,0,0,0
+No,"St Francis Capuchin College, Rochestown, Cork City",Cork,97,85,0.87628866,1,2,0,2,0,0,56,0,0,0,0,0,0,0,0,21,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+No,"Mount Mercy College, Model Farm Road, Cork",Cork,133,116,0.872180451,3,1,0,0,0,3,79,0,0,0,0,0,0,0,0,23,0,0,0,1,0,0,0,1,1,0,0,3,1,0,0
+No,"Coláiste na Toirbhirte, Ard Aoibhinn, Bandon, Co Cork",Cork,84,73,0.869047619,3,0,2,0,0,1,38,0,0,0,0,0,0,0,0,22,0,0,0,1,0,1,0,1,2,0,1,1,0,0,0
+No,"Scoil Mhuire, Clochar na Trocaire, Ceann Toirc, Mala  Co Chorcai",Cork,43,37,0.860465116,2,0,1,3,0,0,10,1,0,0,0,0,0,0,2,4,0,0,0,0,0,6,0,1,1,0,0,4,0,0,2
+No,"Glanmire Community College, Brooklodge, Glanmire, Co Cork",Cork,123,104,0.845528455,0,2,0,4,0,0,48,0,0,0,0,1,0,0,1,43,0,0,0,0,0,1,0,0,3,0,0,1,0,0,0
+No,"Coláiste Chriost Ri, Bothar Ceapmhaoil, Cathair Chorcai",Cork,93,78,0.838709677,0,0,0,1,0,0,26,0,0,0,0,0,0,0,0,48,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+No,"Coláiste De La Salle, Macroom, Co Cork",Cork,66,55,0.833333333,1,1,1,6,0,0,22,0,0,0,0,0,0,0,1,17,0,1,0,0,0,2,0,1,1,0,0,1,0,0,0
+No,"Community School, Innishmore, Ballincollig, Co Cork",Cork,119,99,0.831932773,0,1,0,3,0,0,49,0,0,0,0,0,0,0,0,41,0,1,0,0,0,0,0,0,1,0,0,3,0,0,0
+No,"Regina Mundi College, Douglas Road, Cork City",Cork,77,64,0.831168831,0,1,0,0,0,0,50,0,0,0,0,0,0,0,0,11,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+No,"Coláiste Mhuire, Realt na Mara, Crosshaven, Corcaigh",Cork,69,57,0.826086957,1,0,0,1,0,0,27,1,0,0,0,0,0,0,1,22,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0
+No,"Coachford Community College, Coachford, Co. Cork",Cork,107,88,0.822429907,1,0,0,3,1,0,35,1,0,0,0,0,0,0,0,39,1,2,0,0,0,1,0,0,2,0,1,1,0,0,0
+No,"Carrigaline Community School, Waterpark Road, Carrigaline, Cork",Cork,140,115,0.821428571,0,0,0,1,0,0,55,0,0,0,0,0,0,0,0,56,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+No,"Bishop McEgan College, Macroom, Co Cork",Cork,28,23,0.821428571,0,0,0,2,0,0,7,2,0,0,0,0,0,0,1,6,0,0,0,0,0,1,1,1,2,0,0,0,0,0,0
+No,"Ashton Comprehensive School, Blackrock Road, Cork City",Cork,78,64,0.820512821,3,4,0,2,0,0,30,0,0,0,0,0,1,0,0,21,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0
+No,"Clochar na Trocaire, Sciobairin, Co Chorcai",Cork,70,57,0.814285714,2,0,0,2,0,0,22,0,0,0,0,0,1,0,0,19,0,0,0,1,0,1,1,0,4,0,0,4,0,0,0
+No,"Pobailscoil na Trionóide, Parkmountain, Youghal, Co Cork",Cork,139,113,0.81294964,0,0,1,5,0,0,39,0,0,0,0,0,1,0,0,29,0,0,0,1,0,3,0,1,30,0,0,3,0,0,0
+No,"Coláiste Ghobnatan, Baile Bhuirne, Maigh Cromtha, Co. Chorcai",Cork,31,25,0.806451613,0,1,1,4,0,0,7,0,0,0,0,0,0,0,0,7,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0
+No,"Boherbue Comprehensive School, Boherbue, Mallow, Co. Cork",Cork,56,45,0.803571429,2,0,1,7,0,0,8,0,0,0,0,0,0,0,0,13,0,0,0,0,0,3,0,0,1,0,0,8,0,0,2
+No,"Christian Brothers School, Rosary Place, Midleton, Co Cork",Cork,103,82,0.796116505,0,0,1,6,0,1,37,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,3,0,0,1,0,0,0
+No,"Coláiste Daibhéid, Teach Buckingham, Sraid An Mhuilinn Na Sabhadoirea, Corcaigh",Cork,33,26,0.787878788,0,0,0,1,0,0,16,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Coláiste an Chraoibhin, Duntaheen, Fermoy, Co. Cork",Cork,75,58,0.773333333,3,0,0,4,1,1,20,1,0,0,0,0,1,0,1,16,0,1,0,1,0,2,0,2,3,0,0,1,0,0,0
+Yes,"Bandon Grammar School, Bandon, Co Cork",Cork,97,75,0.773195876,4,5,1,4,0,5,24,0,0,0,0,0,2,0,1,17,0,2,2,2,0,3,0,0,0,1,1,0,0,0,1
+No,"Nagle Rice Secondary School, Doneraile, Mallow, Co Cork",Cork,21,16,0.761904762,1,0,0,2,0,0,2,0,0,0,0,0,0,0,0,5,0,2,0,0,0,2,0,2,0,0,0,0,0,0,0
+No,"Bishopstown Community School, Westgate Road, Bishopstown, Cork",Cork,21,16,0.761904762,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,11,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Douglas Community School, Douglas Road, Cork City",Cork,92,70,0.760869565,0,0,0,0,0,1,32,0,0,0,0,0,0,0,1,32,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0
+Yes,"Midleton College, Connolly Street, Midleton, Co. Cork",Cork,54,41,0.759259259,6,3,1,4,0,0,20,0,0,1,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2
+No,"St Mary's Secondary School, Charleville, Co Cork",Cork,70,53,0.757142857,2,1,0,15,0,1,13,0,0,0,0,0,0,0,1,3,0,0,0,0,0,3,0,1,3,0,0,10,0,0,0
+No,"St Peter's Community School, Passage West, Cork",Cork,44,33,0.75,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+No,"Christ The King Sec School, Half Moon Lane, South Douglas Road, Cork",Cork,171,128,0.748538012,0,0,0,2,0,2,82,0,0,0,1,0,0,0,1,32,0,0,1,1,0,1,0,1,2,0,0,2,0,0,0
+No,"Coláiste Cholmain, Mainistir Fhear Muighe, Co Chorcai",Cork,71,53,0.746478873,0,1,0,8,0,1,17,0,0,0,0,0,0,0,0,23,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0
+No,"Maria Immaculata Comm. College, Dunmanway, Co. Cork",Cork,75,55,0.733333333,0,0,0,5,0,2,20,0,0,0,0,0,0,0,0,21,0,0,0,2,0,1,0,1,1,0,0,1,0,1,0
+No,"Gairm Scoil Bhrogain Naofa, Droichead Na Banndan, Co Chorcai",Cork,60,44,0.733333333,0,0,1,6,0,0,12,0,0,0,0,0,0,0,1,18,0,1,0,0,0,0,0,2,3,0,0,0,0,0,0
+No,"Scoil Phobail Bhéara, Castletownbere, Co.Cork",Cork,55,40,0.727272727,2,0,2,2,0,0,14,0,0,0,0,0,0,0,0,16,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0
+No,"Deerpark C.B.S., St. Patrick's Road, Cork",Cork,29,21,0.724137931,1,0,0,0,0,0,7,0,0,0,0,0,0,0,0,10,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0
+No,"Coláiste Pobail Bheanntraí, Seskin, Bantry, Co. Cork",Cork,117,81,0.692307692,2,0,1,11,2,5,10,0,0,0,0,0,1,0,0,25,0,0,1,0,0,10,0,5,4,0,0,3,0,0,1
+No,"St Mary's High School, Castleredmond, Midleton, Co. Cork",Cork,84,58,0.69047619,2,1,1,2,0,0,21,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,3,9,0,0,0,0,0,0
+No,"Schull Community College, Colla Road, Schull, Co Cork",Cork,72,48,0.666666667,2,3,0,7,2,0,19,0,0,0,0,0,0,0,0,7,0,0,0,0,0,1,0,1,4,0,0,0,2,0,0
+No,"Coláiste Pobail Naomh Mhuire, Cill Na Mullach, Co. Corcaigh",Cork,29,19,0.655172414,0,0,0,2,0,0,7,0,0,0,0,0,0,0,0,6,0,0,0,0,0,2,0,1,0,0,0,1,0,0,0
+No,"Christian Brothers Secondary School, Bakers Road, Charleville, Co. Cork",Cork,62,40,0.64516129,1,0,0,4,0,1,12,0,0,0,0,0,0,0,1,8,0,1,0,1,0,0,0,7,1,0,0,3,0,0,0
+No,"Cork College of Commerce, Morrisons Island, Cork",Cork,141,90,0.638297872,1,0,1,4,1,2,46,0,0,0,0,0,0,0,0,29,1,0,0,0,0,2,0,0,1,0,0,2,0,0,0
+No,"Scoil Mhuire Gan Smal, Blarney, Co. Cork",Cork,88,56,0.636363636,0,0,0,4,0,1,16,1,0,0,0,0,0,0,0,31,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0
+No,"Presentation Sec School, Joe Murphy Road, Ballyphehane, Cork City",Cork,41,26,0.634146341,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0
+No,"St Aidan's Community College, Dublin Hill, Ballincollie  Road, Co. Cork",Cork,78,46,0.58974359,0,0,0,0,1,0,17,0,0,0,0,0,0,0,1,24,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+No,"Coláiste Muire, Bishop Street, Cobh, Co Cork",Cork,99,57,0.575757576,0,0,0,3,0,0,20,0,0,0,0,0,0,0,0,29,0,0,0,0,0,1,0,0,2,0,0,2,0,0,0
+No,"North Presentation Sec. School, Farranree, Cork",Cork,30,17,0.566666667,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+No,"St Aloysius School, St Maries Of The Isle, Sharmon, CrBGford Street",Cork,51,28,0.549019608,1,2,1,0,0,0,14,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"St. Fanahan's College, Mitchelstown, Co. Cork",Cork,31,17,0.548387097,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,7,0,0,0,2,1,1,0,0,1,0,0,1,0,0,0
+No,"Mayfield Community School, Old Youghal Road, Mayfield, Cork City",Cork,31,17,0.548387097,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Carrignafoy Community College, Cobh, Co. Cork",Cork,14,7,0.5,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"St. Colman's Community College, Midleton, Co. Cork",Cork,85,41,0.482352941,0,0,1,2,0,1,9,0,0,0,0,0,0,0,0,21,0,0,0,0,0,2,0,1,4,0,0,0,0,0,0
+No,"St Patrick's College, Gardiner's Hill, Cork",Cork,49,23,0.469387755,0,0,0,1,0,0,7,0,0,0,0,0,1,0,0,12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+No,"St Vincent's Secondary School, St Mary's Road, Cork City",Cork,42,16,0.380952381,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+No,"An Mhainistir Thuaidh, North Monastery Secondary School, North Monastery Road, Cork",Cork,41,14,0.341463415,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+No,"Rossa College, Skibbereen, Co Cork",Cork,15,5,0.333333333,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Nagle Community College, Avenue De Rennes, Mahon, Cork",Cork,31,9,0.290322581,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Magh Éne College, Church Road, Bundoran, Co. Donegal",Donegal,42,51,1.214285714,1,1,2,0,2,13,0,1,0,1,0,0,1,0,0,0,0,3,1,1,8,0,15,1,0,0,0,0,0,0,0
+No,"Pobalscoil Ghaoth Dobhair, Doirí Beaga, Leitir Ceanainn, Tír Chonaill",Donegal,36,42,1.166666667,7,2,6,0,0,7,1,0,0,1,0,0,3,0,0,2,0,3,0,0,0,0,10,0,0,0,0,0,0,0,0
+No,"Coláiste Ailigh, Cnoc Na Móna, Leitir Ceanainn, Co Dhún Na Ngall",Donegal,23,23,1,4,1,7,0,4,2,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+No,"St. Catherine's Vocational Sch, Donegal Road, Killybegs, Co. Donegal",Donegal,56,53,0.946428571,2,2,7,0,2,9,0,0,1,0,0,0,1,0,0,0,0,2,2,0,10,0,13,0,0,0,0,0,2,0,0
+No,"St Eunan's College, Letterkenny, Co Donegal",Donegal,160,150,0.9375,13,1,16,2,14,11,0,0,0,0,0,0,9,0,0,0,0,7,1,0,11,0,63,0,0,1,0,0,0,1,0
+No,"St Columba's Comprehensive Sch, Glenties, Donegal",Donegal,71,63,0.887323944,1,1,1,1,6,5,0,1,3,0,0,0,1,1,0,0,1,5,0,0,5,0,25,2,0,4,0,0,0,0,0
+No,"Coláiste na Carraige, An Charraig, Dun Na Ngall",Donegal,53,47,0.886792453,4,1,5,2,0,4,0,2,0,0,0,0,1,0,0,0,4,2,0,0,13,0,6,1,1,1,0,0,0,0,0
+No,"Loreto Community School, Milford, Co Donegal",Donegal,116,101,0.870689655,9,1,6,0,9,10,0,0,0,2,0,0,1,0,0,0,0,2,0,0,7,0,51,1,0,1,1,0,0,0,0
+No,"Scoil Phobail, Chloigh Cheannfhaola, Falcarragh, Letterkenny",Donegal,85,72,0.847058824,5,0,6,2,3,13,0,2,1,2,0,0,6,0,0,1,0,3,1,0,3,0,23,1,0,0,0,0,0,0,0
+No,"The Rosses Community School, Dungloe, Donegal, Co Donegal",Donegal,93,78,0.838709677,4,1,10,1,3,13,0,1,1,0,0,0,5,0,0,0,0,5,0,0,10,0,24,0,0,0,0,0,0,0,0
+No,"Ghairmscoil Chu Uladh, Beal An Atha Mhoir, An Clochan, Leifear",Donegal,48,40,0.833333333,1,0,1,0,0,8,0,0,0,3,0,0,0,0,0,0,0,0,0,0,5,0,19,0,0,3,0,0,0,0,0
+No,"Coláiste Cholmcille, Ballyshannon, Co Donegal",Donegal,99,82,0.828282828,3,1,5,1,5,11,0,0,0,0,0,0,0,0,0,2,1,8,1,0,21,2,17,2,1,0,0,0,1,0,0
+No,"Carndonagh Community School, Carndonagh, Co. Donegal",Donegal,127,105,0.826771654,13,1,8,0,16,12,1,1,0,1,0,0,0,0,1,0,0,9,0,3,13,0,26,0,0,0,0,0,0,0,0
+No,"Clochar Loreto, Leitirceanainn, Co Dhun Na Ngall",Donegal,165,134,0.812121212,9,5,14,1,11,11,1,0,7,5,0,0,5,0,0,0,1,3,1,0,10,0,46,0,0,4,0,0,0,0,0
+No,"Scoil Mhuire, St Orans Road, Buncrana, Co. Donegal",Donegal,84,67,0.797619048,9,1,5,1,3,11,1,0,1,1,0,0,0,0,0,0,0,3,0,1,6,0,23,0,1,0,0,0,0,0,0
+No,"Abbey Vocational School, Donegal Town, Co. Donegal",Donegal,128,100,0.78125,5,1,13,3,3,11,0,1,1,1,0,1,4,0,0,0,0,2,2,0,33,2,15,0,0,0,0,2,0,0,0
+No,"Royal and Prior, Comprehensive School, Raphoe, Lifford",Donegal,72,53,0.736111111,4,2,3,2,1,6,1,0,2,1,0,0,0,0,1,0,1,2,1,1,2,0,22,0,0,0,1,0,0,0,0
+No,"St Columbas College, Stranorlar, Lifford, Co Donegal",Donegal,168,121,0.720238095,6,4,15,0,3,18,1,0,0,1,0,0,2,0,0,0,1,1,0,0,7,1,56,0,0,5,0,0,0,0,0
+No,"Moville Community College, Carrownaff, Moville, Co Donegal",Donegal,71,50,0.704225352,2,1,3,0,2,7,0,0,0,1,0,0,0,0,0,1,0,0,0,0,13,0,19,0,1,0,0,0,0,0,0
+No,"Mulroy College, Milford, Letterkenny, Co Donegal",Donegal,61,42,0.68852459,1,1,2,0,0,3,0,0,1,0,0,0,1,0,0,0,0,3,0,0,5,0,23,1,0,0,1,0,0,0,0
+No,"Finn Valley College, Drumboe Lower, Stranorlar, Co Donegal",Donegal,44,29,0.659090909,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,0,19,0,0,0,0,0,0,0,0
+No,"Crana College, Buncrana, Co. Donegal",Donegal,81,49,0.604938272,3,2,1,0,3,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,31,0,0,0,0,0,0,0,0
+No,"Deele College, Rath Bhoth, Leifear, Co Dhun Na Ngall",Donegal,82,48,0.585365854,0,0,0,1,1,13,0,1,1,1,0,0,0,0,0,0,0,1,0,0,3,0,26,0,0,0,0,0,0,0,0
+No,"Errigal College, Windyhall, Letterkenny, Co. Donegal",Donegal,52,26,0.5,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,20,0,0,0,0,0,0,0,0
+No,"Coláiste Eoin, Bóthar Stigh Lorgan, Baile An Bhóthair, An Charaig Dhubh",Dublin County,85,112,1.317647059,52,17,6,0,3,0,0,0,0,0,1,0,19,3,0,0,0,0,8,0,0,0,0,0,0,0,0,0,1,1,1
+Yes,"Christian Brothers College, Monkstown Park, Dun Laoghaire, Co Dublin",Dublin County,79,87,1.101265823,39,11,2,1,2,2,0,0,0,0,0,1,16,0,0,0,0,0,8,0,0,2,0,1,0,1,0,0,0,1,0
+Yes,"Loreto Abbey, Dalkey, Co Dublin",Dublin County,103,111,1.077669903,39,24,4,0,3,2,1,0,0,0,0,0,17,4,1,0,1,0,9,0,0,0,1,1,0,2,0,0,0,1,1
+No,"Clonkeen College, Clonkeen Road, Blackrock, Co. Dublin",Dublin County,81,87,1.074074074,18,4,2,0,4,0,0,0,0,0,2,2,32,4,0,1,1,0,14,0,0,0,0,0,2,0,0,0,1,0,0
+Yes,"Holy Child School, Military Road, Killiney, Co. Dublin",Dublin County,59,60,1.016949153,24,10,1,0,0,2,0,0,0,0,0,0,15,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,1,0,0
+No,"Coláiste Iosagain, Br Stigh Lorgan, Baile An Bhothair, An Charraig Dhubh",Dublin County,78,79,1.012820513,37,20,3,0,1,1,0,0,0,0,0,0,10,0,0,0,0,0,2,1,0,0,0,0,0,2,0,0,1,1,0
+Yes,"Blackrock College, Blackrock, Co Dublin",Dublin County,197,196,0.994923858,85,39,7,3,3,7,0,0,0,0,0,1,37,2,0,1,0,1,5,0,0,0,0,0,0,0,0,0,2,3,0
+Yes,"St Andrew's College, Booterstown Ave, Blackrock, Co Dublin",Dublin County,161,156,0.968944099,54,47,5,1,0,3,2,1,0,0,0,2,26,0,0,1,3,0,5,1,0,0,0,0,0,0,2,0,2,1,0
+No,"Portmarnock Community School, Carrickhill Road, Portmarnock, Co. Dublin",Dublin County,139,133,0.956834532,9,17,20,2,4,1,1,0,0,0,11,16,37,3,0,0,4,1,0,1,0,0,0,1,1,1,0,0,2,1,0
+No,"Newpark School, Newtownpark Avenue, Blackrock, Co Dublin",Dublin County,117,110,0.94017094,24,8,4,1,9,0,3,0,0,0,3,0,23,4,2,0,0,0,21,1,0,0,0,0,1,0,1,0,5,0,0
+No,"Coláiste Cois Life, Gleann an Ghrifin, Leamhcan, Co. Atha Cliath",Dublin County,65,61,0.938461538,4,11,5,1,20,1,0,0,0,0,4,0,7,0,0,0,1,0,1,0,0,0,0,0,0,3,1,0,1,1,0
+No,"Pobail Scoil Íosa, Malahide, Co Dublin",Dublin County,195,183,0.938461538,28,32,38,3,4,0,0,0,0,0,5,11,43,2,0,0,2,2,2,1,0,0,0,3,0,4,0,0,3,0,0
+No,"Lucan Community College, Esker Drive, Lucan, Co Dublin",Dublin County,123,113,0.918699187,14,9,6,1,39,0,1,0,0,0,10,5,17,5,1,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,0
+No,"Skerries Community College, Skerries, Co Dublin",Dublin County,156,138,0.884615385,9,20,42,0,2,1,0,0,0,0,1,10,23,2,0,0,13,1,5,1,0,0,0,1,1,1,0,0,4,1,0
+No,"St. Joseph's College, Lucan, Co. Dublin",Dublin County,141,123,0.872340426,13,12,8,0,35,3,0,0,0,0,5,4,20,10,1,0,2,0,1,0,0,0,0,1,2,0,0,0,5,1,0
+Yes,"St Joseph of Cluny Sec. School, Bellevue Park, Ballinclea Rd, Dun Laoghaire",Dublin County,61,53,0.868852459,21,7,2,0,1,2,0,0,0,0,0,2,14,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Loreto Secondary School, Balbriggan, Co Dublin,",Dublin County,193,167,0.865284974,10,19,37,1,12,2,0,0,0,0,3,9,28,2,0,0,20,1,3,2,0,0,1,1,1,4,0,0,10,1,0
+No,"Oatlands College, Mount Merrion, An Charraig Dhubh, Co Bhaile Atha Cliath",Dublin County,88,76,0.863636364,31,7,2,0,2,0,0,0,0,0,0,1,20,3,1,0,0,0,6,1,0,0,1,0,0,0,0,0,1,0,0
+No,"Balbriggan Community College, Pine Ridge, Chapel St., Balbriggan",Dublin County,59,50,0.847457627,1,1,5,0,3,0,0,0,0,0,1,6,5,0,0,0,19,0,1,3,2,0,1,0,2,0,0,0,0,0,0
+No,"St. Benildus College, Upper Kilmacud Road, Stillorgan, Blackrock",Dublin County,112,94,0.839285714,23,6,2,1,2,1,0,0,0,0,0,4,31,12,0,0,1,0,6,3,0,0,0,0,0,0,0,0,1,1,0
+No,"St Raphaela's Sec School, St. Raphaela's Road, Stillorgan, Blackrock",Dublin County,67,55,0.820895522,13,3,7,0,2,0,1,0,0,0,1,3,11,7,0,0,0,0,5,0,0,0,0,0,2,0,0,0,0,0,0
+No,"Loreto College, Swords, Co Dublin",Dublin County,114,90,0.789473684,4,8,18,0,7,1,0,0,0,0,10,6,18,0,1,0,10,0,2,0,0,0,0,1,0,2,0,0,2,0,0
+Yes,"Rathdown School, Glenageary, Co Dublin",Dublin County,46,36,0.782608696,12,12,2,0,0,2,0,0,0,0,0,1,4,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0
+No,"St Joseph's Secondary School, Rush, Co Dublin",Dublin County,86,65,0.755813953,1,10,7,0,3,0,0,0,0,0,1,15,10,3,1,0,11,0,0,0,0,0,0,0,0,0,0,0,3,0,0
+No,"Presentation Convent, Rockford Manor, An Charraig Dhubh, Co Bhaile Atha Cliath",Dublin County,32,24,0.75,6,4,1,0,0,0,0,0,0,0,0,0,6,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0,1,1,0
+No,"Dominican College, Cross Avenue,, Blackrock, Co. Dublin",Dublin County,56,41,0.732142857,11,6,5,0,0,1,0,0,0,0,0,4,12,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Coláiste Choilm, Dublin Road, Swords, Co. Dublin",Dublin County,100,73,0.73,5,3,16,1,1,0,0,0,0,0,9,10,19,1,0,0,4,0,3,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Coláiste Padraig CBS, RoselBGn, Lucan, Co. Dublin",Dublin County,116,78,0.672413793,9,4,5,1,14,0,1,0,0,0,5,6,20,8,1,0,1,0,2,0,0,0,0,0,0,0,0,0,1,0,0
+No,"Donabate Community College, Portrane Road, Donabate, Co Dublin",Dublin County,106,60,0.566037736,4,8,16,1,4,1,1,0,0,0,4,5,7,4,0,0,3,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+No,"Fingal Community College, Seatown Road, Swords, Co. Dublin",Dublin County,82,42,0.512195122,1,1,4,1,2,0,0,0,0,0,15,6,8,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0
+No,"St Finians Community College, Castlefarm, Jugback Lane, Swords",Dublin County,92,46,0.5,2,4,13,0,0,0,1,0,0,0,7,5,5,1,0,0,4,0,0,1,0,0,1,0,0,1,0,0,1,0,0
+No,"Rathcoole Community School, Crockshane, Kilteel Road, Rathcoole",Dublin County,138,65,0.471014493,5,3,2,2,13,0,0,0,0,0,3,2,9,18,0,1,0,2,0,1,1,0,0,0,2,0,1,0,0,0,0
+No,"Adamstown Community College, Station Road, Adamstown, Lucan",Dublin County,95,37,0.389473684,4,6,0,0,7,0,0,0,0,0,7,2,3,6,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Holy Child Community School, Pearse St., Sallynoggin, Co Dublin",Dublin County,32,11,0.34375,0,0,0,1,0,0,0,0,0,0,1,0,4,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,0,0,0
+No,"Ardgillan Community College, Castlelands, Balbriggan, Co Dublin",Dublin County,83,27,0.325301205,3,5,0,0,0,0,0,0,0,0,5,3,4,0,0,0,3,0,0,2,0,0,0,1,0,0,0,0,0,1,0
+Yes,"Belvedere College, Great Denmark Street, Dublin 1",Dublin 1,165,168,1.018181818,22,41,43,0,12,0,1,0,0,1,0,5,29,2,0,0,0,1,3,0,0,0,0,0,1,0,0,0,4,3,0
+No,"Meánscoil Uí Chonaill, Sraid Risteaman Thuaidh, Baile Atha Cliath 1",Dublin 1,84,49,0.583333333,4,4,10,0,10,2,0,0,0,0,4,2,6,1,0,0,2,0,0,0,1,1,0,0,0,1,0,0,1,0,0
+No,"Mount Carmel Sec School, Kings Inn St, Dublin 1",Dublin 1,46,24,0.52173913,2,2,3,0,0,0,0,0,0,0,4,4,3,1,1,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,0
+No,"Larkin Community College, Champion's  Avenue, Cathal Brugha St., Dublin 1",Dublin 1,55,26,0.472727273,3,2,1,0,1,0,1,0,0,0,3,2,6,2,0,0,0,1,1,2,0,0,0,0,0,0,0,0,1,0,0
+Yes,"Loreto College St. Stephen's Green, 53 St. Stephens Green, Dublin 2",Dublin 2,96,104,1.083333333,39,22,19,1,5,0,0,0,0,0,0,2,9,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0,1,2,0
+Yes,"Catholic University School, 89 Lower Leeson Street, Dublin 2",Dublin 2,65,68,1.046153846,11,21,12,0,1,3,0,0,0,0,2,3,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Christian Brothers Westland Row, Westland Row, Dublin 2",Dublin 2,13,4,0.307692308,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Holy Faith Secondary School, 1 Belgrove Road, Clontarf, Dublin 3",Dublin 3,103,103,1,13,28,26,1,1,3,0,0,0,0,3,2,17,0,0,0,1,0,3,1,0,1,0,0,0,2,0,0,1,0,0
+No,"Mount Temple, Comprehensive School, Malahide Road, Dublin 3",Dublin 3,139,119,0.856115108,14,18,26,0,7,0,0,0,0,0,9,5,21,1,0,0,2,1,7,1,1,0,0,0,1,1,1,0,3,0,0
+No,"Marino College,  14/20 Marino Mart, Fairview, Dublin 3",Dublin 3,25,16,0.64,1,0,5,0,2,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+No,"Scoil Ioseph Naofa, Fionnradharc, Baile Atha Cliath 3",Dublin 3,47,28,0.595744681,1,2,7,0,0,0,0,0,0,0,4,5,8,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Muckross College, Marlborough Road, Donnybrook",Dublin 4,111,125,1.126126126,33,32,5,1,3,4,1,0,0,0,2,2,26,1,0,0,0,0,12,0,0,0,0,0,0,0,0,0,1,2,0
+Yes,"St. Michael's College, Ailesbury Road, Dublin 4",Dublin 4,92,103,1.119565217,49,19,1,0,0,2,0,0,0,0,0,0,23,1,0,1,0,0,4,2,0,0,0,0,0,0,0,0,1,0,0
+Yes,"The Teresian School, 12 Stillorgan Road, Dublin 4",Dublin 4,21,23,1.095238095,15,4,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Yes,"John Scottus Secondary School, 72-76 Morehampton Road, Donnybrook, Dublin 4",Dublin 4,17,17,1,3,2,1,0,1,0,0,0,0,0,0,1,2,0,0,1,1,1,2,0,0,2,0,0,0,0,0,0,0,0,0
+Yes,"St Conleth's College, Clyde Road, Dublin 4",Dublin 4,44,43,0.977272727,15,13,0,0,0,0,1,0,0,0,0,0,6,2,0,0,1,0,2,0,0,0,0,0,0,0,0,0,2,1,0
+No,"Marian College, Ballsbridge, Dublin 4",Dublin 4,81,31,0.382716049,5,2,2,0,6,0,0,0,0,0,1,0,7,3,0,0,0,0,2,2,0,0,0,0,0,0,0,0,1,0,0
+No,"Ringsend College, Cambridge Road, Ringsend, Dublin 4",Dublin 4,23,6,0.260869565,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+No,"Manor House School, Watermill Road, Raheny, Dublin 5",Dublin 5,106,77,0.726415094,5,13,27,2,5,0,0,0,0,0,4,2,13,0,0,0,1,0,1,1,0,0,0,0,0,2,0,0,0,1,0
+No,"Chanel College, Coolock Village, Malahide Road, Dublin 5",Dublin 5,85,57,0.670588235,3,0,12,0,1,0,0,0,0,0,13,12,10,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,2,0,0
+No,"St Paul's College, Sybil Hill, Raheny, Dublin 5",Dublin 5,76,48,0.631578947,4,12,13,0,2,0,0,0,0,0,3,3,7,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0
+No,"St. David's Secondary School, Artane, Dublin 5",Dublin 5,65,34,0.523076923,2,4,8,0,1,0,0,0,0,0,3,7,7,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+No,"Mercy College, St. Brendan's Drive, Coolock, Dublin 5",Dublin 5,58,28,0.482758621,1,1,7,0,3,0,0,0,0,0,7,4,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0
+No,"St Mary's Holy Faith Secondary School, Holy Faith Convent, Brookwood Meadow, Killester",Dublin 5,86,36,0.418604651,6,3,7,0,3,0,0,0,0,0,4,1,10,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Ardscoil La Salle, Raheny Road, Raheny, Dublin 5",Dublin 5,54,22,0.407407407,0,1,7,1,0,0,0,0,0,0,8,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yes,"Gonzaga College, Sandford Road, Dublin 6",Dublin 6,92,103,1.119565217,56,25,1,1,0,4,1,0,0,0,0,0,11,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+Yes,"The High School, Zion Rd, Rathgar, Dublin 6",Dublin 6,115,126,1.095652174,26,37,3,0,5,2,0,0,0,0,0,2,26,5,1,0,1,0,9,0,1,2,0,0,1,0,2,0,3,0,0
+Yes,"St Mary's College, Rathmines, Dublin 6",Dublin 6,59,64,1.084745763,20,8,2,0,1,5,0,0,0,0,2,2,21,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Yes,"Alexandra College, Milltown, Dublin 6",Dublin 6,75,73,0.973333333,37,17,2,1,0,2,2,0,0,0,0,0,5,1,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,1,0
+Yes,"Sandford Park School, Sandford Road, Ranelagh, Dublin 6",Dublin 6,40,35,0.875,17,5,2,0,0,1,0,0,0,0,0,0,6,1,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0
+Yes,"Stratford College, 1 Zion Rd, Rathgar, Dublin 6",Dublin 6,16,13,0.8125,1,4,1,1,3,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+No,"St Louis High School, Rathmines, Dublin 6",Dublin 6,130,98,0.753846154,21,19,2,0,6,1,1,1,0,0,3,6,27,6,0,0,1,0,0,1,1,0,0,0,0,0,0,0,2,0,0
+No,"Rathmines College, Town Hall, Rathmines Road, Dublin 6",Dublin 6,127,70,0.551181102,15,12,8,1,20,1,2,0,0,0,5,2,1,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Presentation College, Terenure Park, Terenure, Dublin 6w",Dublin 6W,33,16,0.484848485,3,0,2,0,0,0,0,1,0,0,1,0,2,2,0,0,0,0,2,0,0,0,1,0,0,0,0,0,1,1,0
+Yes,"Terenure College, Templeogue Road, Terenure, Dublin 6w",Dublin 6W,120,129,1.075,32,22,2,0,8,2,0,0,0,0,0,0,44,16,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0
+No,"Templeogue College, Templeogue, Dublin 6w",Dublin 6W,108,110,1.018518519,20,9,12,1,4,0,0,0,0,0,2,3,28,27,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0
+No,"Our Lady's School, Templeogue Rd, Terenure, Dublin 6w",Dublin 6W,118,105,0.889830508,35,18,10,0,3,0,1,0,0,0,2,3,20,7,0,0,0,0,3,0,0,0,1,0,0,1,0,0,0,1,0
+No,"St. Macdara's Comm. College, Wellington Lane, Templeogue, Dublin 6w",Dublin 6W,156,124,0.794871795,27,9,11,0,11,1,0,0,0,0,3,0,31,18,0,0,3,0,3,1,0,0,1,0,1,0,0,0,2,2,0
+No,"Coláiste Mhuire na mBraithre, Bóthar Ráth Tó, Baile Atha Cliath 7",Dublin 7,25,20,0.8,1,1,3,0,3,0,0,0,0,0,3,1,3,0,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0
+No,"St Dominic's College, Cabra, Dublin 7",Dublin 7,130,95,0.730769231,4,14,18,0,16,0,0,0,0,0,10,3,22,3,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,1,0
+No,"Scoil Dheaglain, Scoil Na mBraithre, Bothar Neifin, Baile Atha Cliath 7",Dublin 7,95,65,0.684210526,5,4,11,0,4,0,0,0,0,0,19,1,14,0,0,1,1,0,0,1,0,0,0,0,2,0,0,1,0,1,0
+No,"St. Joseph's Secondary School, Stanhope Street, Dublin 7",Dublin 7,44,25,0.568181818,1,3,0,0,1,0,0,0,0,0,8,0,7,2,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+No,"St.Paul's C.B.S., Nth. Brunswick Street., Dublin 7",Dublin 7,42,14,0.333333333,0,0,1,0,1,0,0,0,0,0,0,1,6,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Mercy Secondary School, Goldenbridge, Inchicore, Dublin 8",Dublin 8,15,9,0.6,1,3,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"St Patrick's Cathedral Grammar School, St Patrick's Close, Dublin 8",Dublin 8,23,13,0.565217391,3,2,1,0,1,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Synge Street CBS, Synge Street, Dublin 8",Dublin 8,49,25,0.510204082,0,0,2,0,0,0,0,0,0,0,1,3,15,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Presentation Secondary School, Warrenmount, Dublin 8",Dublin 8,32,10,0.3125,0,1,1,0,1,0,0,0,0,0,1,0,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"James's Street CBS, Basin Lane, Dublin 8",Dublin 8,20,6,0.3,1,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Ard Scoil Ris, Ascal O Griofa, Baile Atha Cliath 9",Dublin 9,93,89,0.956989247,7,11,32,0,3,1,0,0,0,0,0,11,17,0,0,0,1,0,2,1,0,0,0,0,1,1,0,0,1,0,0
+No,"Dominican College, 204 Griffith Ave, Dublin 9",Dublin 9,117,111,0.948717949,13,20,35,0,5,0,0,0,0,0,6,5,19,0,1,0,1,0,1,0,0,0,0,1,0,2,0,0,2,0,0
+No,"Maryfield College, Glandore Rd, Drumcondra, Dublin 9",Dublin 9,120,99,0.825,2,13,24,1,9,1,0,0,0,0,9,12,18,2,0,0,1,1,0,0,0,0,0,0,1,2,0,0,2,1,0
+No,"Scoil Chaitriona, Bothar Mobhi, Glasnaion, Baile Atha Cliath 9",Dublin 9,63,46,0.73015873,3,3,13,0,8,0,0,0,0,0,5,1,5,0,0,0,2,0,2,0,0,0,0,0,0,2,0,1,1,0,0
+No,"Scoil Naomh Aodhan, Ascal Ui Choileain, Fionnbhru, Baile Atha Cliath 9",Dublin 9,98,64,0.653061224,5,2,22,0,5,0,0,0,0,0,10,2,15,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+No,"Rosmini Community School, O'Donnell House, All Hallows College, Gracepark Road",Dublin 9,23,14,0.608695652,1,0,2,0,1,0,0,0,0,0,4,1,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Our Lady of Mercy College, Beaumont, Dublin 9",Dublin 9,65,35,0.538461538,2,3,10,0,2,0,0,0,0,0,6,2,7,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Plunkett College, Swords Road, Whitehall, Dublin 9",Dublin 9,108,42,0.388888889,2,2,14,0,4,0,0,0,0,0,6,6,0,0,0,0,5,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+No,"Mgt. Aylward Comm. College, Thatch Road, Whitehall, Dublin 9",Dublin 9,23,7,0.304347826,0,0,1,0,1,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Trinity Comprehensive School, Main Street, Ballymun, Dublin 9",Dublin 9,58,16,0.275862069,1,1,2,0,1,0,0,0,0,0,4,2,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+No,"Caritas College, Drumfin Road, Ballyfermot, Dublin 10",Dublin 10,39,18,0.461538462,1,0,1,0,4,0,0,0,0,0,3,0,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Kylemore College, Kylemore Road, Ballyfermot, Dublin 10",Dublin 10,20,8,0.4,0,0,0,0,2,0,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+No,"St. Dominic's Secondary School, Kylemore Road, Ballyfermot, Dublin 10",Dublin 10,47,14,0.29787234,1,2,3,0,1,0,0,0,0,0,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Christian Brothers, St. Kevin's College, Ballygall Road East, Finglas",Dublin 11,58,38,0.655172414,1,0,14,0,2,0,0,0,0,0,7,8,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"St. Mary's Secondary School, Holy Faith Convent, Glasnevin, Dublin 11",Dublin 11,119,74,0.621848739,4,10,12,0,5,0,0,0,0,0,15,9,12,1,0,0,0,0,3,0,1,0,0,0,1,0,0,0,1,0,0
+No,"St. Vincent's CBS, Secondary School, Finglas Road, Glasnevin",Dublin 11,53,28,0.528301887,1,2,8,0,1,0,0,0,0,0,7,1,7,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+No,"St Michael's Secondary School, Wellmount Road, Finglas, Dublin 11",Dublin 11,77,38,0.493506494,3,5,7,0,6,0,0,0,0,0,6,1,5,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+No,"Beneavin College, Beneavin Road, Finglas, Dublin 11",Dublin 11,79,25,0.316455696,0,2,5,0,0,0,0,0,0,0,10,0,6,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Coláiste Eoin, Cappagh Road, Finglas, Dublin 11",Dublin 11,27,7,0.259259259,1,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+No,"New Cross College, Cappagh Rd., Finglas, Dublin 11",Dublin 11,57,8,0.140350877,2,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"St Paul's Secondary School, Greenhills, Dublin 12",Dublin 12,92,66,0.717391304,11,5,4,0,7,0,0,0,0,0,2,1,9,19,2,0,2,0,1,1,0,0,0,0,0,1,0,0,1,0,0
+No,"Greenhills College, Limekiln Avenue, Greenhills, Dublin 12",Dublin 12,13,9,0.692307692,0,0,1,0,0,0,0,0,0,0,0,0,2,4,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Assumption Sec School, Walkinstown, Dublin 12",Dublin 12,63,36,0.571428571,3,3,6,0,6,0,0,0,0,0,2,1,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0
+No,"Mean Scoil Iognaid Ris, Caislean Druimnigh, Baile Atha Cliath 12",Dublin 12,120,64,0.533333333,6,4,3,0,9,0,0,0,0,0,9,5,4,21,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Our Lady of Mercy Sec School, Mourne Road, Drimnagh, Dublin 12",Dublin 12,34,17,0.5,2,6,1,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+No,"St. Kevin's College, Cloghar Road, Crumlin, Dublin 12",Dublin 12,12,6,0.5,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+No,"Loreto College, Crumlin Rd, Dublin 12",Dublin 12,70,33,0.471428571,0,6,2,0,3,0,0,0,0,0,0,0,10,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Pearse College, Clogher Road, Crumlin, Dublin 12",Dublin 12,66,28,0.424242424,0,4,2,0,3,0,0,0,0,0,3,3,7,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+No,"Rosary College, Armagh Road, Crumlin, Dublin 12",Dublin 12,21,6,0.285714286,0,0,0,0,2,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+No,"Ardscoíl Éanna, FranshBG House, 314-318 Crumlin Rd., Dublin 12",Dublin 12,30,5,0.166666667,1,0,0,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"St. Fintan's High School, Sutton, Dublin 13",Dublin 13,91,79,0.868131868,9,17,18,0,2,0,0,0,0,0,2,7,17,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,2,0,0
+No,"Santa Sabina Dominican College, Greenfield Road, Sutton, Dublin 13",Dublin 13,87,75,0.862068966,9,21,18,0,4,0,0,0,0,0,1,1,15,0,0,0,2,0,1,0,1,0,0,0,0,2,0,0,0,0,0
+No,"Gaelcholáiste Reachrann, Br. Mhainistir Na Gráinsí, Domhnach Míde, Baile Átha Cliath 13",Dublin 13,40,33,0.825,3,4,14,0,0,0,0,0,0,0,1,3,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0
+Yes,"Sutton Park School, St. Fintans Road, Sutton, Dublin 13",Dublin 13,41,28,0.682926829,4,7,5,0,0,0,0,0,0,0,2,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+No,"Pobalscoil Neasáin, Baldoyle, Dublin 13",Dublin 13,87,58,0.666666667,6,5,8,0,5,0,0,0,0,0,7,2,16,0,0,0,0,0,6,0,0,0,0,0,0,2,0,0,1,0,0
+No,"St Mary's Secondary School Baldoyle, College Street, Baldoyle, Dublin 13",Dublin 13,42,26,0.619047619,1,1,8,0,0,0,0,0,0,0,3,4,4,1,0,0,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0
+No,"Community School, The Donahies, Streamville Road, Dublin 13",Dublin 13,46,21,0.456521739,1,2,2,0,2,0,0,0,0,0,9,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Grange Community College, Grange Abbey Road, Donaghmede, Dublin 13",Dublin 13,33,6,0.181818182,0,0,1,0,0,0,0,0,0,0,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yes,"Loreto High School, Beaufort, Grange Road, Rathfarnham",Dublin 14,104,109,1.048076923,38,35,5,1,1,2,2,0,0,0,0,1,15,4,0,0,0,0,1,0,0,0,0,0,0,3,0,0,1,0,0
+Yes,"Mount Anville, Goatstown, Dublin 14",Dublin 14,103,104,1.009708738,57,19,5,1,0,4,1,0,0,0,0,0,13,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,0
+No,"Jesus and Mary College, Our Lady's Grove, Goatstown, Dublin 14",Dublin 14,56,53,0.946428571,14,2,4,0,1,2,0,0,0,0,0,1,14,7,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,1,0
+Yes,"Notre Dame School, Upper  Churchtown Road, Dublin 14",Dublin 14,34,29,0.852941176,5,10,2,0,0,1,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yes,"Deutsche Schule, St. Kilian's, Roebuck Road, Clonskeagh",Dublin 14,53,42,0.79245283,11,14,1,0,0,1,1,0,0,0,1,1,6,0,0,1,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0
+No,"De La Salle College, Churchtown, Rathfarnham, Dublin 14",Dublin 14,51,38,0.745098039,7,1,1,0,0,1,0,0,0,0,2,2,13,7,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0
+Yes,"St. Vincent's Castleknock College, Castleknock, Dublin 15",Dublin 15,83,96,1.156626506,11,12,18,1,41,0,1,0,0,0,2,0,5,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,1,0
+No,"Castleknock Community College, Carpenterstown Road, Castleknock, Dublin 15",Dublin 15,183,192,1.049180328,13,17,33,0,51,0,0,0,0,0,24,5,29,1,0,0,2,1,2,1,1,0,0,1,0,2,0,0,7,1,1
+No,"Riversdale Community College, Blanchardstown Road North, Blanchardstown, Dublin 15",Dublin 15,38,27,0.710526316,0,2,3,0,5,0,2,0,0,0,8,1,3,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+No,"Coolmine Community School, Clonsilla, Dublin 15",Dublin 15,180,125,0.694444444,8,11,12,0,34,0,0,0,0,0,27,2,23,3,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Coláiste Pobail Setanta, Phibblestown, Clonee, Dublin 15",Dublin 15,94,65,0.691489362,8,3,4,0,24,0,0,0,0,0,13,2,6,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0
+No,"Hartstown Community School, Clonsilla, Dublin 15",Dublin 15,180,120,0.666666667,11,1,11,0,29,0,0,0,0,0,40,2,15,1,2,0,1,1,0,1,1,0,1,0,0,1,0,0,2,0,0
+No,"Blakestown Community School, Blakestown, Blanchardstown, Dublin 15",Dublin 15,77,40,0.519480519,1,0,3,0,10,0,0,0,0,0,12,2,8,0,0,0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+No,"Luttrellstown Community College, Porterstown Road, Clonsilla, Dublin 15",Dublin 15,68,26,0.382352941,5,4,0,0,3,0,0,0,0,0,7,0,4,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yes,"Rockbrook  Park School, Edmondstown Road, Rathfarnham, Dublin 16",Dublin 16,17,20,1.176470588,2,2,2,0,3,0,0,0,0,0,0,0,4,3,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0
+Yes,"Wesley College, Ballinteer, Dublin 16",Dublin 16,153,143,0.934640523,38,29,5,2,3,6,2,0,1,1,1,1,38,7,1,0,1,0,3,0,0,0,0,0,0,0,3,0,0,0,1
+No,"St Colmcilles Community School, Scholarstown Rd, Knocklyon, Dublin 16",Dublin 16,123,112,0.910569106,22,8,14,0,3,1,0,0,0,0,1,1,44,10,0,1,1,0,3,1,0,0,0,0,0,0,0,0,2,0,0
+No,"Coláiste Eanna na mBraithre, Baile Ruain, Rath Fearnain, Ath Cliath 16",Dublin 16,98,78,0.795918367,24,5,9,0,1,1,0,0,0,0,2,0,23,7,0,0,0,0,2,2,0,1,0,0,0,0,0,0,1,0,0
+No,"Sancta Maria College, Ballyroan Crescent, Rathfarnham, Dublin 16",Dublin 16,102,70,0.68627451,17,4,5,0,4,0,0,0,0,0,1,2,16,11,0,0,0,0,4,1,0,0,0,0,0,2,0,0,3,0,0
+No,"St. Tiernan's Community School, Parkvale, Balally, Dublin 16",Dublin 16,37,17,0.459459459,3,0,0,0,2,0,0,0,0,0,0,2,2,4,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+No,"Ballinteer Community School, Broadford Road, Ballinteer, Dublin 16",Dublin 16,54,21,0.388888889,1,1,1,0,0,0,0,0,0,0,1,0,5,4,0,0,0,0,4,2,1,0,0,0,0,0,0,0,1,0,0
+Yes,"College of St Columba, Whitechurch, Dublin 16",Dublin 16,75,29,0.386666667,1,22,0,0,0,2,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Coláiste Dhulaigh Post Primary, Barryscourt Road, Coolock, Dublin 17",Dublin 17,27,6,0.222222222,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Yes,"Loreto Secondary School, Springfield Park, Foxrock, Dublin 18",Dublin 18,95,103,1.084210526,41,19,8,1,4,1,0,0,0,0,0,0,18,3,0,0,2,0,5,0,0,0,0,0,0,1,0,0,0,0,0
+Yes,"Rosemont Park School, Enniskerry Road, Sandyford, Dublin 18",Dublin 18,14,12,0.857142857,2,0,2,0,1,0,0,0,0,0,0,0,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+No,"St. Laurence College, Loughlinstown, Dublin 18",Dublin 18,75,50,0.666666667,19,8,1,1,1,0,0,0,0,0,0,6,3,3,0,0,1,0,3,1,0,0,0,0,0,2,0,0,0,0,1
+No,"Community School, Cabinteely, Dublin 18",Dublin 18,52,29,0.557692308,6,0,1,0,1,0,0,0,0,0,0,2,7,3,0,1,0,0,6,2,0,0,0,0,0,0,0,0,0,0,0
+Yes,"Mount Sackville, Chapelizod, Dublin 20",Dublin 20,83,90,1.084337349,17,14,14,1,18,1,1,0,0,0,4,2,8,1,0,0,1,0,2,0,0,0,0,0,1,0,0,0,2,3,0
+Yes,"The Kings Hospital, Palmerstown, Dublin 20",Dublin 20,108,91,0.842592593,21,21,6,1,14,3,1,0,0,0,3,3,8,2,0,0,0,0,0,4,2,0,0,1,0,0,0,0,1,0,0
+No,"Pobal Scoil Iosolde, Oak Court Avenue, Palmerstown, Dublin 20",Dublin 20,69,29,0.420289855,1,1,0,0,6,1,0,0,0,0,3,0,1,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Coláiste Chillian, Bothar Nangor, Cluain Dolcain, Baile Atha Cliath 22",Dublin 22,60,50,0.833333333,2,7,2,0,19,0,0,0,0,0,2,0,5,9,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0
+No,"Moyle Park College, Clondalkin, Dublin 22",Dublin 22,90,61,0.677777778,4,8,5,0,7,1,0,0,0,0,2,3,12,16,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0
+No,"Coláiste Bride, Cluain Dolcain, Baile Atha Cliath 22",Dublin 22,136,86,0.632352941,1,3,8,0,20,0,1,0,0,0,5,3,10,26,1,0,3,1,0,0,0,0,0,0,0,1,0,0,3,0,0
+No,"St. Kevin's Comm. College, Fonthill Road, Clondalkin, Dublin 22",Dublin 22,36,10,0.277777778,1,0,0,0,3,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Deansrath Community College, Westbourne Rise, Clondalkin, Dublin 22",Dublin 22,37,10,0.27027027,0,0,0,0,1,0,0,0,0,0,0,0,3,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+No,"Collinstown Park Comm. College, Rowlagh, Clondalkin, Dublin 22",Dublin 22,63,16,0.253968254,3,2,2,1,1,0,0,0,0,0,1,0,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Firhouse Community College, Firhouse Road, Dublin 24",Dublin 24,100,64,0.64,4,1,4,0,5,0,0,0,0,0,1,3,16,25,0,0,0,0,3,1,0,0,0,0,0,0,0,0,1,0,0
+No,"Tallaght Community School, Balrothery, Tallaght, Dublin 24",Dublin 24,94,59,0.627659574,4,3,5,0,8,0,0,0,0,0,2,1,8,25,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+No,"St Aidan's Community School, Brookfield, Tallaght, Dublin 24",Dublin 24,48,26,0.541666667,0,0,2,0,2,0,0,0,0,0,1,0,4,16,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Old BBGn Community School, Old BBGn, Tallaght, Dublin 24",Dublin 24,162,85,0.524691358,8,12,1,0,13,0,1,0,0,0,2,4,13,28,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+No,"St Mark's Community School, Cookstown Road, Tallaght, Dublin 24",Dublin 24,146,64,0.438356164,5,5,3,0,9,0,0,0,0,0,5,3,10,22,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+No,"Coláiste De Hide, Br Chaisleáin Thigh Motháin, Tamhlacht, Baile Atha Cliath 24",Dublin 24,54,22,0.407407407,3,1,1,0,1,0,0,0,0,0,0,0,4,11,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Mount Seskin Community College, Jobstown, Tallaght, Dublin 24",Dublin 24,34,12,0.352941176,1,3,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Killinarden Community School, Killinarden, Tallaght, Dublin 24",Dublin 24,67,18,0.268656716,2,0,0,0,1,0,0,0,0,0,0,0,3,11,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+No,"Gairm Scoil, Baile Locha Riach, Co Na Gaillimhe",Galway,71,75,1.056338028,0,1,2,5,1,15,3,1,0,0,0,0,1,0,9,0,0,23,1,2,0,0,0,6,1,0,0,4,0,0,0
+No,"Garbally College, Garbally Park, Ballinasloe, Co Galway",Galway,73,77,1.054794521,6,2,6,5,4,7,0,0,0,0,0,0,0,1,10,0,2,23,0,0,1,0,0,7,2,0,0,1,0,0,0
+No,"Colaíste na Coiribe, Bothar Thuama, Gaillimh",Galway,50,51,1.02,1,0,0,3,0,30,0,0,0,0,0,0,3,0,0,0,0,7,0,0,0,0,0,2,0,0,0,5,0,0,0
+No,"Presentation College, Athenry, Co Galway",Galway,163,166,1.018404908,13,3,3,13,0,67,2,3,0,0,0,0,0,0,10,0,1,34,0,0,2,0,0,1,1,0,0,12,0,1,0
+No,"Coláiste Chroi Mhuire Gan Smal, An Spideal, Gaillimh",Galway,30,30,1,0,1,1,0,0,16,0,0,0,0,0,0,0,0,0,1,0,4,1,0,0,0,0,4,0,0,0,2,0,0,0
+No,"Coláiste Mhuire, Beal Atha Ghartha, Co Galway",Galway,19,19,1,0,0,1,1,1,3,0,1,0,0,0,0,0,0,4,0,0,5,0,1,1,0,1,0,0,0,0,0,0,0,0
+No,"Salerno Secondary School, Threadmill Road, Salthill, Galway",Galway,107,106,0.990654206,5,7,5,4,0,58,3,0,0,0,0,0,0,1,1,0,0,13,1,0,1,0,0,0,0,0,0,6,1,0,0
+No,"Coláiste Iognáid, Sea Road, Galway",Galway,92,91,0.989130435,5,9,2,3,0,53,1,0,0,0,0,0,4,0,2,0,0,6,1,0,1,0,0,2,0,0,0,2,0,0,0
+No,"Calasanctius College, Mary Nihill, Oranmore, Co Galway",Galway,128,121,0.9453125,0,2,3,8,2,55,0,0,0,0,0,0,1,0,6,0,0,30,1,2,3,0,2,3,0,0,0,1,1,1,0
+No,"Gort Community School, Gort, Co. Galway",Galway,86,81,0.941860465,2,1,1,4,0,20,0,0,0,0,0,0,0,0,4,4,0,27,1,0,1,2,0,7,1,0,0,4,0,1,1
+No,"Coláiste Einde, Threadneedle Road, Salthill, Galway",Galway,123,114,0.926829268,3,1,1,1,0,68,2,0,0,0,0,0,0,0,2,0,0,26,1,0,0,0,2,3,2,0,0,2,0,0,0
+No,"St. Joseph's Patrician College, Nuns' Island, Galway",Galway,145,134,0.924137931,7,3,0,5,0,88,0,0,0,0,0,0,1,0,3,0,0,26,0,0,0,0,0,1,0,0,0,0,0,0,0
+No,"St Raphael's College, Loughrea, Co Galway",Galway,60,54,0.9,0,1,0,3,1,24,1,0,0,0,0,0,1,0,7,0,0,13,0,0,0,0,0,0,1,0,0,2,0,0,0
+No,"Community School, Portumna, Ballinasloe, Co Galway",Galway,97,86,0.886597938,2,1,1,18,2,10,7,0,0,0,0,0,2,0,5,2,1,19,0,0,1,3,0,3,4,0,0,5,0,0,0
+No,"Scoil Phobail, Clifden, Galway",Galway,58,50,0.862068966,3,3,2,3,2,13,1,0,0,0,0,0,1,0,2,1,0,11,1,0,5,0,0,1,0,0,0,1,0,0,0
+No,"Ardscoil Mhuire, Mackney, Ballinasloe, Co. Galway",Galway,85,73,0.858823529,3,0,6,6,1,14,0,0,0,0,0,0,5,0,15,1,1,8,1,0,2,0,1,1,1,0,0,6,0,1,0
+No,"Dominican College, Taylors Hill, Galway City",Galway,116,99,0.853448276,2,3,0,7,0,61,1,0,0,0,0,0,1,0,2,0,0,13,1,0,0,0,0,2,2,0,0,4,0,0,0
+No,"St. Paul's Secondary School, Oughterard, Co. Galway",Galway,43,36,0.837209302,0,1,0,4,0,13,2,0,0,0,0,0,0,0,1,0,0,12,0,0,1,0,0,1,0,0,0,1,0,0,0
+No,"St. Mary's College, St. Mary's Road, Galway",Galway,69,57,0.826086957,1,1,0,2,0,24,1,0,0,0,0,0,0,0,1,0,0,22,0,0,0,0,0,4,0,1,0,0,0,0,0
+No,"Holy Rosary College, Mountbellew, Co Galway",Galway,85,70,0.823529412,7,0,4,4,0,21,1,2,0,0,0,0,1,0,10,0,0,10,0,2,0,0,1,2,0,0,0,4,1,0,0
+No,"Clochar na Toirbhirte, Athcinn, Co Na Gaillimhe",Galway,155,127,0.819354839,1,5,3,9,2,52,2,1,0,0,0,0,0,0,3,0,1,29,1,0,7,1,2,3,0,0,0,4,1,0,0
+No,"St. Jarlath's College, Tuam, Co. Galway",Galway,110,90,0.818181818,0,1,1,6,0,47,0,0,0,0,2,0,1,0,1,0,0,25,0,0,2,0,0,2,0,0,0,1,0,1,0
+No,"Scoil Chuimsitheach Chiaráin, An Cheathrú Rua, Co.Na Gaillimhe",Galway,54,44,0.814814815,1,0,0,5,0,12,1,2,0,0,0,0,1,0,3,1,0,11,0,0,0,0,0,0,0,0,0,6,0,0,1
+No,"Coláiste an Eachréidh, An Coiléar Bán, Baile Átha An Rí, Co. Na Gaillimhe",Galway,16,13,0.8125,0,0,0,0,0,8,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Dunmore Community School, Dunmore, Tuam, Co Galway",Galway,46,37,0.804347826,2,0,2,4,0,3,0,0,0,0,0,0,0,0,1,0,1,12,0,0,4,3,2,3,0,0,0,0,0,0,0
+No,"Scoil Phobail Mhic Dara, Carna, Galway",Galway,15,12,0.8,0,0,1,0,0,7,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0
+No,"Gairm Scoil, Baile Atha An Ri, Co Na Gaillimhe",Galway,72,57,0.791666667,0,1,2,3,0,13,1,0,0,0,0,0,0,0,9,0,0,19,0,1,1,0,0,3,0,0,0,3,1,0,0
+No,"St Cuan's College, Castleblakney, Ballinasloe, Co. Galway",Galway,38,30,0.789473684,0,0,1,1,2,10,0,0,0,0,0,0,0,0,5,0,0,6,0,0,0,0,0,1,0,0,0,4,0,0,0
+No,"Presentation College, Currylea, Tuam, Co Galway",Galway,85,67,0.788235294,2,2,2,3,1,32,1,2,0,0,0,0,0,0,6,1,0,6,0,0,2,2,0,0,0,0,0,5,0,0,0
+No,"Scoil Bhride, Clochar Na Trocaire, Tuaim, Co. Na Gaillimhe",Galway,61,48,0.786885246,1,0,0,5,1,10,1,0,0,0,0,0,0,0,3,0,0,14,0,1,4,0,1,3,0,0,0,4,0,0,0
+No,"Glenamaddy Community School, Glenamaddy, Co. Galway",Galway,67,51,0.76119403,3,1,2,15,0,14,0,0,0,0,0,0,0,0,4,0,0,9,0,0,0,0,0,1,0,1,0,1,0,0,0
+No,"Our Lady of Mercy College, Woodford, Loughrea, Co Galway",Galway,23,17,0.739130435,0,0,1,0,0,6,1,0,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0,1,0,0,0,2,0,0,0
+No,"Gairm Scoil na bPiarsach, Ros Muc, Gaillimh",Galway,17,12,0.705882353,0,1,0,1,1,3,0,0,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0
+No,"St. Killian's Community College, New Inn, Ballinasloe, Co. Galway",Galway,30,20,0.666666667,1,0,0,2,0,3,0,0,0,0,0,0,0,0,7,0,0,2,0,1,1,0,0,1,0,0,0,2,0,0,0
+No,"Mean Scoil Ard Na Mara, Cinnmhara, Gaillimh",Galway,56,36,0.642857143,1,1,1,7,1,12,0,0,0,0,0,0,0,0,1,0,0,4,0,1,0,0,2,2,0,0,0,3,0,0,0
+No,"Presentation Secondary School, Presentation Road, Galway",Galway,28,18,0.642857143,0,0,0,1,0,8,0,0,0,0,0,0,0,0,1,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Coláiste  Cholmcille, Indreabhán, Gaillimh",Galway,55,35,0.636363636,2,0,0,5,0,13,0,1,0,0,0,0,0,1,1,0,0,8,0,0,1,0,0,1,0,0,0,2,0,0,0
+No,"Coláiste Naomh Feichín, Corr Na Mona, Co Na Gaillimhe",Galway,18,11,0.611111111,2,0,1,1,0,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Galway Community College, Moinin Na Gciseach, Galway",Galway,41,25,0.609756098,0,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,17,0,0,0,0,1,0,0,0,0,1,0,0,0
+No,"Gairm Scoil Einne, Cill Rónáin, Oileáin Árann, Co. Na Gaillimhe",Galway,14,8,0.571428571,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,3,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+No,"Mean Scoil Muire, Clochar Na Trocaire, Cathair Na Gaillimhe",Galway,55,26,0.472727273,1,0,0,0,0,14,1,0,0,0,0,0,0,0,3,0,0,6,0,0,0,0,0,1,0,0,0,0,0,0,0
+No,"Gairm Scoil, Sheain Mhic Eil, Tuaim, Co Na Gaillimhe",Galway,17,6,0.352941176,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+No,"Listowel Community College, Church Street, Listowel, Co Kerry",Kerry,15,18,1.2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,13,0,1,1,0,0,0,0,0,0
+No,"Vocational School, Clash, Tralee, Co Kerry",Kerry,23,27,1.173913043,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,23,0,0,0,0,0,0,0,0,0
+No,"Coláiste Ide, An Daingean, Tra Li, Co Chiarrai",Kerry,12,14,1.166666667,0,1,1,2,0,3,4,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+No,"Meán Sc. Nua an Leith Triúigh, Castlegregory, Co Kerry",Kerry,20,22,1.1,2,1,1,2,0,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,7,0,2,0,0,0,2,0,0,0
+No,"Presentation Secondary School, Listowel, Co Kerry",Kerry,64,67,1.046875,0,1,0,9,0,11,19,2,0,0,0,0,0,0,0,3,0,0,0,1,0,8,0,6,0,0,0,6,0,1,0
+No,"St. Joseph's Sec School, Doon Road, Ballybunion, Co Kerry",Kerry,23,24,1.043478261,0,1,0,6,0,1,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,9,0,4,0,0,0,0,0,0,0
+No,"Gaelcholaiste Chiarrai, Tobar Mui Doire, Tra Li, Co. Chiarrai",Kerry,47,47,1,3,5,0,11,0,3,7,0,0,0,0,0,0,0,0,2,0,0,0,0,0,13,0,2,0,0,0,1,0,0,0
+No,"St. Brendan's College, Killarney, Co. Kerry",Kerry,75,73,0.973333333,1,1,2,17,1,1,9,0,0,0,0,0,0,0,1,11,0,0,1,2,0,19,0,2,2,0,0,3,0,0,0
+No,"Presentation Sec School, Tra Li, Co Chiarrai",Kerry,100,97,0.97,2,8,1,8,2,9,25,0,0,0,0,0,0,0,0,5,0,2,0,0,0,17,0,1,3,0,0,14,0,0,0
+No,"Scoil Phobail Sliabh Luachra, Rathmore, Co. Kerry",Kerry,71,68,0.957746479,0,0,0,12,0,0,9,0,0,0,0,0,0,0,0,12,0,0,1,1,0,12,0,5,5,0,0,11,0,0,0
+No,"Coláiste na Sceilge, Caherciveen, Co. Kerry",Kerry,80,76,0.95,4,1,2,7,0,0,22,0,0,0,1,0,0,0,0,19,0,0,0,0,0,11,0,6,0,0,0,2,0,0,1
+No,"St Patrick's Secondary School, Castleisland, Co. Kerry",Kerry,15,14,0.933333333,1,0,1,1,0,2,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0
+No,"Mercy Secondary School, MounthBGk, Tralee, Co.Kerry",Kerry,177,163,0.920903955,3,4,2,23,0,15,42,0,0,0,0,0,2,0,0,14,0,1,0,1,1,46,0,4,2,0,0,2,0,0,1
+No,"Pobailscoil Chorca Dhuibhne, An Gróbh, Daingean Ui Chuis, Co. Chiarraí",Kerry,94,85,0.904255319,5,7,3,5,1,6,30,0,0,0,0,0,0,0,0,3,0,1,1,1,0,8,0,2,3,0,0,6,0,1,2
+No,"Kenmare Community School, Kenmare, Killarney, Co.Kerry",Kerry,89,76,0.853932584,2,3,0,4,0,6,18,0,0,0,0,0,2,0,0,23,0,0,0,0,0,11,0,1,4,0,0,2,0,0,0
+No,"Tarbert Comprehensive School, Tarbert, Listowel, Co Kerry",Kerry,115,92,0.8,1,1,4,21,1,4,13,2,0,0,0,0,0,0,1,10,0,0,1,2,0,10,0,12,2,0,0,7,0,0,0
+No,"Presentation Secondary School, Miltown, Killarney, Co Kerry",Kerry,108,86,0.796296296,2,0,0,9,3,2,20,0,0,0,0,0,0,0,1,15,0,0,0,2,0,22,0,1,1,1,0,6,1,0,0
+No,"Presentation Secondary School, Clochar Na Toirbhirte, Castleisland, Co Kerry",Kerry,26,19,0.730769231,1,0,0,2,0,1,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,2,0,0,0,1,0,0,0
+No,"St Brigid's Secondary School, New Street, Killarney, Co Kerry",Kerry,85,61,0.717647059,0,1,1,11,1,3,22,0,0,0,0,0,0,1,0,6,0,0,0,0,0,8,0,1,1,0,0,5,0,0,0
+No,"Scoil Chuimsitheach An Tochar, An Tochar, Tra Lí, Co Chiarraí",Kerry,113,81,0.716814159,0,1,0,17,0,1,15,0,0,0,0,0,1,0,0,6,0,2,0,0,0,33,0,1,2,0,0,2,0,0,0
+No,"Castleisland Community College, Tonbwee, Castleisland, Co. Kerry",Kerry,41,29,0.707317073,0,0,0,6,0,0,4,0,0,0,0,0,0,0,0,6,0,0,0,0,0,12,0,0,0,0,0,1,0,0,0
+No,"St. Mary's CBS The Green, Dan Spring Road, Tralee, Co Kerry",Kerry,119,80,0.672268908,2,4,0,14,0,3,14,0,0,0,0,0,0,0,0,5,0,1,0,0,1,29,0,3,1,0,0,3,0,0,0
+No,"An Scoil Idirmheanach, Cill Orglan, Co Chiarraí",Kerry,180,118,0.655555556,5,5,1,17,0,3,42,1,1,0,0,0,3,0,0,14,0,1,0,0,1,13,0,2,0,0,0,7,1,0,1
+No,"St. Michael's College, Listowel, Co. Kerry",Kerry,23,15,0.652173913,0,0,1,3,0,0,2,0,0,0,0,0,0,0,0,3,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0
+No,"Killorglin Community College, Killorglin, Co Kerry",Kerry,29,18,0.620689655,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10,0,1,1,0,0,0,0,0,0
+No,"Killarney Community College, New Road, Killlarney, Co Kerry",Kerry,63,39,0.619047619,0,0,1,5,0,0,6,0,0,0,0,0,0,0,0,10,0,0,0,1,0,15,0,0,0,0,0,1,0,0,0
+Yes,"Clongowes Wood College, Naas, Co Kildare",Kildare,75,80,1.066666667,33,13,3,1,2,2,1,0,0,0,0,1,18,0,1,2,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+Yes,"Dominican College, Droichead Nua, Co Kildare",Kildare,121,124,1.024793388,29,17,20,7,5,8,2,0,0,0,1,4,19,4,0,1,0,1,0,4,0,0,0,1,0,0,0,0,0,1,0
+No,"Coláiste Chiarain, Pobail Scoil, Leim An Bhradáin, Co Chill Dara",Kildare,91,88,0.967032967,2,3,7,2,32,2,0,0,0,1,8,3,16,4,0,0,0,1,3,1,2,1,0,0,0,0,0,0,0,0,0
+No,"Coláiste Naomh Mhuire, Clochar Na Trocaire, Nas, Co Chill Dara",Kildare,126,121,0.96031746,9,22,14,1,14,2,4,1,0,0,4,3,19,2,0,1,1,3,1,16,2,0,0,0,0,1,0,0,1,0,0
+No,"Ardscoil na Trionóide, Rathstewart, Athy, Co. Kildare",Kildare,125,120,0.96,6,5,11,9,17,5,1,0,0,0,1,1,5,1,0,0,2,2,2,35,0,1,0,2,13,1,0,0,0,0,0
+No,"Mean Scoil Iognaid Ris, Scoil Na mBraithre, Naas, Co. Kildare",Kildare,144,133,0.923611111,18,10,10,6,21,5,1,0,0,0,2,4,25,6,0,0,0,0,2,18,1,0,0,0,2,0,0,0,0,1,1
+No,"Confey Community College, Confey, Leixlip, Co Kildare",Kildare,118,105,0.889830508,8,2,9,0,39,1,0,0,0,0,11,0,21,6,2,0,0,1,0,3,1,0,0,0,0,1,0,0,0,0,0
+No,"Gael-Cholaiste Chill Dara, Seanbhóthar Luimnigh, Nas na Ríogh, Co. Chill Dara",Kildare,25,22,0.88,3,4,1,0,4,1,0,0,0,0,0,0,3,1,0,0,0,2,1,1,0,0,0,0,0,0,0,1,0,0,0
+No,"Maynooth Post Primary School, Moyglare Road, Maynooth, Co. Kildare",Kildare,198,168,0.848484848,14,23,10,3,72,3,2,0,0,0,8,0,23,0,0,0,0,1,0,3,0,0,0,0,1,0,0,0,5,0,0
+No,"Coláiste Lorcain, Castledermot, Athy, Co Kildare",Kildare,50,42,0.84,3,3,3,3,1,3,0,0,0,0,0,0,0,0,0,0,0,2,0,19,0,0,0,0,3,1,0,0,1,0,0
+No,"Salesian College, Maynooth Road, Celbridge, Co Kildare",Kildare,103,86,0.834951456,9,2,2,1,41,1,0,0,0,0,7,0,14,6,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+No,"St Wolstan's Community School, Ballymakealy, Clane Road, Celbridge",Kildare,131,109,0.832061069,7,21,7,0,34,1,2,0,0,0,3,0,14,5,1,1,1,1,2,2,0,0,2,0,0,0,0,0,4,1,0
+No,"Cross and Passion College, Kilcullen, Co Kildare",Kildare,96,78,0.8125,8,4,9,7,6,3,3,0,1,0,0,0,11,1,3,0,1,0,1,11,0,0,1,1,4,0,0,0,3,0,0
+No,"Patrician Secondary School, Newbridge, Co Kildare",Kildare,107,85,0.794392523,11,2,3,4,7,12,0,0,0,0,0,0,14,3,0,0,0,1,0,25,2,0,0,0,0,0,0,0,1,0,0
+No,"Scoil Mhuire Community School, Clane, Naas, Co Kildare",Kildare,134,106,0.791044776,8,6,2,1,28,2,2,0,0,0,8,1,18,7,0,1,1,1,1,9,1,0,3,1,2,1,0,0,1,0,1
+No,"Ardscoil Rath Iomgháin, Rathangan, Kildare",Kildare,117,91,0.777777778,6,4,5,7,12,2,1,0,0,0,3,0,5,4,7,1,2,8,1,12,0,1,0,1,6,0,0,2,0,1,0
+No,"Scoil Dara, Cill Choca, An Nas, Co Chill Dara",Kildare,94,64,0.680851064,4,1,3,0,28,3,1,0,0,0,4,0,10,3,1,1,2,1,0,0,0,1,0,0,1,0,0,0,0,0,0
+No,"Mean Scoil An Teaghlaigh Naofa, Droichead Nua, Co Kildare",Kildare,128,81,0.6328125,3,1,10,7,17,6,0,0,0,0,2,3,15,1,0,1,1,1,0,8,0,0,2,0,3,0,0,0,0,0,0
+No,"Piper's Hill College,, Killashee,, Naas,, Co. Kildare",Kildare,122,74,0.606557377,6,2,5,0,11,1,0,0,0,0,2,0,15,9,0,1,0,2,0,13,0,0,0,1,4,0,1,0,0,1,0
+No,"Kildare Town Community School, Dunmurray Road, Kildare,, Co. Kildare",Kildare,128,76,0.59375,8,1,2,4,9,3,0,1,0,0,0,2,15,5,1,0,1,1,0,11,0,0,0,1,7,3,0,0,1,0,0
+No,"St Paul's Secondary School, Monasterevin, Co. Kildare",Kildare,45,22,0.488888889,0,3,1,0,2,2,2,0,0,0,0,1,1,0,2,0,0,0,0,7,0,0,0,0,0,0,0,0,1,0,0
+No,"St. Farnan's Post Primary Sch., Prosperous, Naas, Co Kildare",Kildare,72,34,0.472222222,1,1,5,1,12,2,0,0,0,0,2,0,3,0,2,0,0,0,0,2,1,0,0,1,1,0,0,0,0,0,0
+No,"Athy Community College, Tomard, Athy, Co.Kildare",Kildare,35,16,0.457142857,2,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0
+No,"St Conleth's Community College, Droichead Nua, Co Kildare",Kildare,20,9,0.45,0,0,2,0,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+No,"Post Primary School,, Mc Swiney Road,, Curragh,, Co Kildare",Kildare,30,8,0.266666667,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0
+No,"Kilkenny College, Castlecomer Road, Kilkenny",Kilkenny,124,135,1.088709677,23,17,9,4,10,10,9,0,0,0,0,0,12,0,2,0,1,2,4,11,0,2,0,4,11,0,1,0,1,1,1
+No,"St Kieran's College, College Road, Kilkenny",Kilkenny,110,119,1.081818182,16,2,11,8,8,1,21,0,0,0,0,0,7,0,0,3,0,0,1,11,0,1,0,2,23,0,0,3,0,1,0
+No,"Scoil na mBraithre Criostaí, Sraid Seamais, Kilkenny",Kilkenny,114,117,1.026315789,12,2,3,18,6,2,17,0,0,0,0,0,5,0,1,5,0,0,0,12,0,0,0,4,27,1,0,1,0,0,1
+No,"Presentation Convent, Secondary School, Kilkenny",Kilkenny,97,95,0.979381443,7,6,8,6,4,5,20,2,0,0,0,0,2,0,0,1,0,1,1,5,0,0,0,1,25,0,0,1,0,0,0
+No,"Loreto Convent, Granges Road, Kilkenny",Kilkenny,133,120,0.902255639,27,6,15,10,6,4,15,3,0,0,0,2,4,0,0,2,1,1,0,5,0,1,0,0,15,0,0,0,1,2,0
+No,"Coláiste Éamann Ris, Kilkenny Road, Callan, Co. Kilkenny",Kilkenny,40,32,0.8,2,0,1,6,6,2,1,0,0,0,0,0,0,0,0,1,0,0,0,7,0,0,0,0,6,0,0,0,0,0,0
+No,"Coláiste Mhuire, Johnstown, Co Kilkenny",Kilkenny,64,51,0.796875,3,0,0,12,2,0,2,1,0,0,0,0,0,0,1,3,0,2,1,1,0,1,1,5,13,0,0,3,0,0,0
+No,"Castlecomer Commnunity School, Castlecomer, Co. Kilkenny",Kilkenny,97,76,0.783505155,13,2,8,8,2,1,5,0,0,0,0,0,3,0,0,0,0,1,0,11,0,1,1,0,18,0,1,0,1,0,0
+No,"St Brigid's College, Calainn, Cill Chainnigh",Kilkenny,55,43,0.781818182,3,0,4,6,3,0,5,0,0,0,0,0,0,0,1,0,0,0,0,3,1,0,0,1,15,0,0,1,0,0,0
+No,"Grennan College, Ladywell Street, Thomastown, Co Kilkenny",Kilkenny,60,42,0.7,4,1,3,0,3,0,2,0,0,0,0,0,0,0,0,3,0,0,0,8,0,0,2,1,15,0,0,0,0,0,0
+No,"Coláiste Pobal Osraí, Bothar Urmhumhan, Cill Chainnigh",Kilkenny,24,15,0.625,1,1,1,2,1,0,1,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,4,1,0,0,0,0,0
+No,"Scoil Aireagail, Ballyhale, Kilkenny",Kilkenny,39,24,0.615384615,1,0,1,1,2,0,0,0,0,0,0,0,1,0,1,1,0,1,1,2,1,0,0,0,11,0,0,0,0,0,0
+No,"Coláiste Cois Siúire, Mooncoin, Co Kilkenny, Via Waterford",Kilkenny,31,17,0.548387097,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,16,0,0,0,0,0,0
+No,"Duiske College, Graignamanagh, Kilkenny,",Kilkenny,24,13,0.541666667,0,0,1,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,3,0,0,0,0,0,0
+No,"Kilkenny City Vocational School, New Street, Kilkenny",Kilkenny,35,7,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,2,0,0,0,0,0,1
+No,"Heywood Community School, Ballinakill, Portlaoise, Co Laois",Laois,94,93,0.989361702,12,1,5,14,2,6,7,0,0,0,0,0,3,0,0,2,0,6,0,16,0,1,0,9,9,0,0,0,0,0,0
+No,"Scoil Criost Ri, Presentation Secondary School, Borris Road, Portlaoise",Laois,85,78,0.917647059,2,0,8,7,5,7,4,0,0,1,0,1,5,0,3,0,0,3,1,13,1,0,0,4,12,0,0,0,1,0,0
+No,"Mountrath Community School, Dysartbeigh, Mountrath, Co. Laois",Laois,108,98,0.907407407,5,2,2,14,3,11,7,1,0,0,1,0,3,0,2,1,0,6,1,14,1,0,0,6,8,2,0,6,0,0,2
+No,"St Mary's CBS, Borris Road, Portlaoise, Co Laois",Laois,75,63,0.84,3,1,2,4,6,9,1,0,0,0,0,1,3,0,1,1,0,2,0,17,0,0,0,1,9,0,0,1,0,0,1
+No,"Clonaslee College, Clonaslee, Portlaoise, Co Laoise",Laois,37,28,0.756756757,0,0,0,1,0,3,0,0,0,0,0,0,1,1,5,0,0,6,0,3,0,3,0,2,3,0,0,0,0,0,0
+No,"St.Fergal's College, Rathdowney, Portlaoise, Co Laoise",Laois,49,36,0.734693878,2,0,5,5,0,2,1,0,0,0,0,0,1,0,0,1,0,0,0,5,1,0,0,3,7,0,0,2,1,0,0
+No,"Coláiste Iosagain Sec. School, Portarlington, Co. Laois",Laois,139,96,0.690647482,7,2,4,9,17,11,1,2,0,0,0,3,4,2,4,0,1,3,0,11,3,2,0,1,7,0,0,0,2,0,0
+No,"Community School, Mountmellick, Portlaoise, Co. Laois",Laois,92,57,0.619565217,1,2,1,8,1,6,3,0,0,0,0,0,8,0,6,0,0,7,0,8,0,1,0,3,1,0,0,1,0,0,0
+No,"Portlaoise College, Mountrath Rd, Portlaoise, Co Laois",Laois,53,27,0.509433962,2,0,1,2,6,0,0,0,0,0,0,0,1,1,0,1,1,0,0,4,0,2,1,3,0,0,0,1,1,0,0
+No,"Lough Allen College, Drumkeerin, Carrick On Shannon, Co Leitrim",Leitrim,17,16,0.941176471,0,1,1,1,1,1,2,0,0,0,0,0,1,0,0,0,0,1,0,0,5,0,2,0,0,0,0,0,0,0,0
+No,"Mohill Community College, Mohill, Co Leitrim",Leitrim,63,59,0.936507937,4,1,8,5,4,6,1,1,0,0,0,0,3,0,3,0,3,2,1,1,12,1,2,1,0,0,0,0,0,0,0
+No,"Community School, Carrick-On-Shannon, Co. Leitrim",Leitrim,82,74,0.902439024,6,1,10,0,7,8,0,5,0,1,0,0,2,0,4,0,1,10,0,1,14,0,2,0,0,1,0,0,0,1,0
+No,"St Clare's Comprehensive Sch, Manorhamilton, Co Leitrim",Leitrim,68,60,0.882352941,5,4,9,1,2,6,0,2,0,0,0,1,4,0,0,0,1,9,0,0,13,0,2,0,0,0,1,0,0,0,0
+No,"Drumshanbo Vocational School, Drumshanbo, Carrick On Shannon, Co Leitrim",Leitrim,42,36,0.857142857,4,0,3,3,0,8,0,1,0,0,0,0,1,0,1,0,0,2,0,0,9,0,1,1,1,0,0,1,0,0,0
+No,"Ballinamore Community School, Ballinmore, Co Leitrim",Leitrim,58,43,0.74137931,4,1,6,0,8,5,0,2,0,1,2,0,3,0,0,0,0,3,0,0,4,0,2,1,0,1,0,0,0,0,0
+No,"Vocational School, Carrigallen, Co Leitrim, Via Cavan",Leitrim,45,29,0.644444444,2,0,2,0,0,4,0,0,0,0,0,0,1,0,2,0,1,10,0,0,6,0,1,0,0,0,0,0,0,0,0
+No,"Gaelcholáiste Luimnigh, Meal Sior Anraí, Luimneach, Sir Harry's Mall",Limerick,77,86,1.116883117,3,2,1,41,0,2,5,0,0,0,0,0,1,0,0,4,0,1,0,2,0,0,0,11,0,0,0,12,0,0,1
+No,"Ardscoil Rís, Brid De Brún, North Circular Road, Limerick",Limerick,121,126,1.041322314,8,4,0,54,0,2,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,1,0,0,16,0,1,1
+No,"Crescent College Comprehensive, Dooradoyle, Limerick City",Limerick,145,150,1.034482759,10,5,3,52,0,10,10,0,0,0,0,1,3,0,0,0,0,2,0,0,0,1,0,35,1,0,0,13,1,0,3
+Yes,"Glenstal Abbey School, Murroe, Limerick",Limerick,40,40,1,9,8,4,1,1,4,5,0,0,0,0,0,2,0,0,2,0,0,2,0,0,0,0,0,1,0,0,0,0,1,0
+No,"Laurel Hill Coláiste Fcj, Cnoc Na Labhras, Luimneach",Limerick,61,61,1,4,3,0,20,0,4,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,0,0,1
+No,"Castletroy Community College, Newtown, Castletroy, Co Limerick",Limerick,191,184,0.963350785,5,2,1,88,0,6,8,0,0,0,0,0,1,0,0,0,0,3,0,0,1,2,0,51,1,0,0,14,0,0,1
+No,"John the Baptist C.S., Hospital, Co. Limerick",Limerick,143,133,0.93006993,0,3,0,36,2,3,22,0,0,0,0,0,1,0,0,12,1,1,0,0,0,7,0,25,6,0,0,13,0,0,1
+No,"Mercy Community College, Rathkeale, Co. Limerick",Limerick,68,63,0.926470588,2,0,0,22,0,0,5,0,0,0,0,0,0,0,1,1,0,1,0,1,0,6,0,18,0,0,0,6,0,0,0
+No,"St.Clement's Redemptorist College, Laurel Hill Avenue, South Circular Road, Limerick",Limerick,68,60,0.882352941,0,0,0,25,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,30,0,0,0,2,0,1,0
+Yes,"Villier's School, North Circular Road, Limerick City",Limerick,106,92,0.867924528,11,9,2,22,0,12,2,0,0,0,0,0,0,0,0,2,0,0,1,2,0,0,0,25,1,0,0,2,0,0,1
+No,"Scoil Mhuire agus Ide, Newcastle West, Co Limerick",Limerick,66,57,0.863636364,2,1,1,17,0,2,10,0,0,0,0,0,1,0,0,3,0,1,0,0,0,2,0,5,0,0,0,12,0,0,0
+No,"St Munchin's College, Corbally, Limerick City",Limerick,73,62,0.849315068,0,1,0,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,33,0,0,0,3,0,0,0
+No,"Coláiste Nano Nagle, Sexton Street, Limerick",Limerick,39,33,0.846153846,0,0,1,5,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,16,0,0,0,5,0,0,1
+No,"Coláiste Íde and Iosaf, Abbeyfeale Community College,, Convent Street,, Abbeyfeale",Limerick,104,85,0.817307692,0,0,2,24,1,1,13,0,0,0,0,0,0,0,0,8,0,0,0,0,0,14,1,17,1,0,0,3,0,0,0
+No,"Coláiste Mhuire, Askeaton, Co. Limerick",Limerick,70,57,0.814285714,0,2,1,20,1,2,3,2,0,0,0,0,0,0,1,2,0,1,0,1,0,3,0,13,2,0,0,3,0,0,0
+No,"Coláiste Chiaráin, Croom, Co. Limerick",Limerick,100,81,0.81,2,0,2,30,0,2,3,0,0,0,0,0,0,0,1,2,0,1,0,0,0,3,0,27,1,0,0,6,0,0,1
+No,"Scoil Pol, Cillfhionain, Cill Mhoceallog, Co Luimnigh",Limerick,34,27,0.794117647,1,0,0,9,0,0,4,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,4,2,0,0,4,0,0,0
+No,"Laurel Hill Secondary School, South Circular Road,, Limerick",Limerick,107,83,0.775700935,1,2,0,29,0,2,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,26,0,0,0,16,0,0,0
+No,"Salesian Secondary College, Pallaskenry, Co. Limerick",Limerick,90,66,0.733333333,0,2,0,19,0,2,2,0,0,0,0,0,0,0,0,1,0,1,0,2,0,2,0,26,3,0,0,6,0,0,0
+No,"Scoil na Tríonóide Naofa, Doon, Co. Limerick",Limerick,112,81,0.723214286,2,0,0,23,1,0,5,0,0,0,0,0,0,0,0,1,0,0,0,1,0,3,0,24,8,0,0,13,0,0,0
+No,"Hazelwood College, Dromcollogher, Co. Limerick",Limerick,98,67,0.683673469,1,1,0,18,0,3,10,0,0,0,0,0,0,0,2,14,0,1,0,0,0,5,1,6,0,0,0,5,0,0,0
+No,"Ard Scoil Mhuire, Corbally, Limerick",Limerick,55,34,0.618181818,0,0,0,17,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,9,0,0,0,4,0,0,1
+No,"Mean Scoil Maria Auxiliatrix, Fernbank, North Circular Road, Limerick City",Limerick,49,30,0.612244898,0,0,0,9,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,13,0,0,0,3,0,0,1
+No,"Coláiste Iosaef, Kilmallock, Co. Limerick",Limerick,76,46,0.605263158,0,0,0,10,0,2,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,13,4,0,0,9,0,0,0
+No,"Desmond College, Newcastle West, Co. Limerick",Limerick,108,57,0.527777778,0,0,0,12,0,2,4,0,0,0,1,0,2,0,0,1,0,2,0,0,0,14,0,16,0,0,0,3,0,0,0
+No,"Col.Mhic. na Braithre Criostai, Sraid Seasnain, Cathair Luimnigh",Limerick,83,40,0.481927711,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,25,0,0,0,3,0,0,0
+No,"St Nessan's Community School, Moylish Park, Limerick City",Limerick,35,9,0.257142857,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,0,0,0,0
+No,"St Enda's Community School, Crossagalla, Kilmallock Road, Limerick City",Limerick,17,3,0.176470588,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+No,"Cnoc Mhuire, Clochar Na Trocaire, Granard, Co Longford",Longford,66,65,0.984848485,5,2,7,4,6,3,0,0,0,0,1,0,8,1,7,0,3,3,0,2,11,0,1,0,0,1,0,0,0,0,0
+No,"Méan Scoil Mhuire, Convent Road, Longford",Longford,96,89,0.927083333,10,7,11,1,12,15,0,0,0,0,0,0,1,0,10,0,1,4,0,1,9,0,2,1,0,1,0,1,1,1,0
+No,"Community College, Lanesboro, Longford",Longford,31,25,0.806451613,1,0,1,0,2,3,0,0,0,0,1,0,0,0,5,0,0,10,0,0,1,0,0,0,0,0,0,0,1,0,0
+No,"Coláiste Naomh Mel, Longford",Longford,84,66,0.785714286,3,2,8,0,8,9,0,0,0,0,1,1,10,0,9,0,0,6,1,0,6,0,1,1,0,0,0,0,0,0,0
+No,"Mercy Secondary School, Ballymahon, Longford",Longford,85,62,0.729411765,5,2,10,3,1,11,1,0,0,0,0,0,5,0,10,0,0,9,0,0,3,0,0,1,0,1,0,0,0,0,0
+No,"Moyne Community School, Moyne, Co. Longford",Longford,102,68,0.666666667,6,1,7,2,5,8,0,2,0,0,1,2,4,1,8,0,0,4,1,2,13,0,1,0,0,0,0,0,0,0,0
+No,"Ballymahon Vocational School, Ballymahon, Longford",Longford,52,23,0.442307692,1,0,2,0,1,5,0,0,0,0,0,0,2,0,6,0,0,4,0,0,2,0,0,0,0,0,0,0,0,0,0
+No,"Templemichael College, Templemichael, Longford",Longford,22,7,0.318181818,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+No,"Ardscoil Phadraig, Granard, Longford",Longford,29,6,0.206896552,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0
+Yes,"Drogheda Grammar School, Eden View, Mornington, Drogheda",Louth,32,33,1.03125,1,0,1,0,9,4,0,0,0,0,0,0,8,0,0,0,5,0,2,0,1,0,0,0,1,0,0,0,1,0,0
+Yes,"Dundalk Grammar School, Dundalk, Co Louth",Louth,80,77,0.9625,17,5,9,0,8,9,1,0,0,0,2,1,6,0,1,0,14,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+No,"Mean Scoil Naomh Uinseann, Seatown Place, Dundalk, Co. Louth",Louth,141,125,0.886524823,14,10,16,1,29,11,2,0,0,3,0,0,6,0,0,0,22,1,0,0,0,0,3,0,1,2,0,0,3,1,0
+No,"St Mary's College, St. Mary's Road, Dundalk, Co. Louth",Louth,86,75,0.872093023,1,2,5,0,3,0,1,0,0,0,1,0,1,0,1,1,53,1,0,0,0,1,1,0,2,0,0,0,1,0,0
+No,"St Louis Secondary School, Dundalk, Co Louth",Louth,95,81,0.852631579,3,2,5,1,11,3,0,0,0,0,0,1,4,1,1,2,35,2,1,1,1,1,1,2,0,2,0,0,1,0,0
+No,"Our Lady's College, Greenhills, Drogheda, Co Louth",Louth,166,139,0.837349398,9,6,48,0,13,1,0,0,0,0,2,0,11,0,3,1,32,0,1,2,0,0,1,0,0,2,0,0,7,0,0
+No,"De La Salle Secondary School, Dundalk, Co Louth",Louth,148,121,0.817567568,6,3,19,1,13,3,2,0,1,0,2,1,9,0,0,0,54,1,1,1,1,0,2,0,1,0,0,0,0,0,0
+No,"St. Joseph's Secondary School, Newfoundwell, Drogheda, Co. Louth",Louth,107,85,0.794392523,2,4,7,0,12,3,1,0,0,0,0,1,10,0,0,0,38,0,2,2,1,0,2,0,0,0,0,0,0,0,0
+No,"Sacred Heart School, Sunnyside,, Drogheda, Co Louth",Louth,75,59,0.786666667,5,4,11,2,13,2,1,1,0,0,0,0,3,0,0,0,13,0,0,0,1,0,0,0,0,1,0,0,2,0,0
+No,"Coláiste Ris, Chapel Street, Dundalk, Co. Louth",Louth,88,69,0.784090909,5,2,12,0,4,1,0,0,1,1,1,0,3,0,0,0,35,0,0,0,0,0,2,0,0,1,0,0,1,0,0
+No,"Bush Post Primary, Bush, Riverstown, Dundalk",Louth,86,62,0.720930233,5,3,6,0,5,0,1,1,0,0,0,0,3,0,0,0,31,2,0,2,0,0,0,0,0,1,0,0,1,1,0
+No,"Ardee Community School, Ardee, Drogheda, Co Louth",Louth,111,76,0.684684685,1,2,8,0,7,1,1,0,0,0,0,1,8,0,1,0,38,0,1,2,0,0,1,2,0,1,0,0,1,0,0
+No,"St Mary's Diocesan School, Beamore Road, Drogheda, Co Louth",Louth,129,86,0.666666667,4,7,13,0,5,1,0,0,0,0,2,2,6,0,3,1,37,0,1,0,0,1,0,1,0,0,0,0,2,0,0
+No,"Scoil Uí Mhuirí, Dunleer, Drogheda, Co Louth",Louth,99,61,0.616161616,0,1,9,2,8,0,0,0,0,0,2,0,2,0,1,0,32,0,0,2,1,0,1,0,0,0,0,0,0,0,0
+No,"St Oliver's Community College, Rathmullen Road, Drogheda, Co Louth",Louth,165,101,0.612121212,3,5,18,1,5,1,0,0,0,0,4,1,11,1,1,2,37,3,2,1,1,0,1,1,0,0,0,0,1,1,0
+No,"O Fiaich College, Dublin Road, Dundalk, Co. Louth",Louth,40,20,0.5,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,16,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Secondary School, Balla, Castlebar, Co Mayo",Mayo,32,41,1.28125,1,0,1,1,1,15,0,0,0,0,1,0,0,0,1,0,2,11,0,0,6,0,0,0,0,1,0,0,0,0,0
+No,"St Gerald's College, Newport Road, Castlebar, Co. Mayo",Mayo,69,79,1.144927536,6,5,3,14,1,21,0,0,0,0,0,0,3,0,0,0,0,11,0,0,10,1,0,1,0,0,0,2,0,1,0
+No,"St Muredach's College, Sligo Road, Ballina, Co. Mayo.",Mayo,51,51,1,1,1,3,4,2,11,0,0,0,0,0,0,0,2,3,0,0,11,0,1,6,1,1,4,0,0,0,0,0,0,0
+No,"St. Louis Community School, Kiltimagh, Claremorris, Co. Mayo",Mayo,82,81,0.987804878,6,5,11,9,5,5,1,0,0,0,0,0,5,0,5,0,1,10,1,0,6,0,3,4,0,1,0,2,0,1,0
+No,"Coláiste Pobail Acla, Polranny, Achill Sound, Mayo",Mayo,49,48,0.979591837,1,0,3,1,2,10,0,0,0,0,1,0,0,1,0,2,0,9,2,0,14,1,0,1,0,0,0,0,0,0,0
+No,"Jesus And Mary Secondary School, Gortnor Abbey, Crossmolina, Co Mayo",Mayo,66,64,0.96969697,5,0,7,8,7,7,2,0,0,0,0,0,4,0,3,1,0,10,1,2,4,0,0,2,0,0,0,1,0,0,0
+No,"St Joseph's Secondary School, Castlebar, Co. Mayo",Mayo,43,41,0.953488372,4,5,1,2,2,12,0,1,0,0,0,0,2,0,2,0,0,4,0,0,3,0,0,0,0,0,0,1,1,1,0
+No,"Coláiste Muire, Tuar Mhic Eadaigh, Clar Chlainne Mhuiris, Co. Mhaigh Eo",Mayo,32,30,0.9375,2,0,0,5,2,4,1,0,0,0,0,0,1,0,1,0,0,5,0,0,2,0,0,2,0,0,0,5,0,0,0
+No,"Scoil Muire Agus Padraig, Swinford, Co.Mayo",Mayo,46,43,0.934782609,1,1,4,2,2,13,1,0,0,0,0,0,1,0,2,0,0,2,0,1,12,0,0,0,0,0,0,1,0,0,0
+No,"Scoil Cnocán Mhichil Naofa, Clár Chlainne Mhuiris, Co. Mhaigh Eo",Mayo,80,73,0.9125,5,8,6,6,4,20,0,0,0,0,0,0,1,0,1,0,2,9,0,0,4,1,0,1,2,0,0,2,0,1,0
+No,"Scoil na Maighdine Muire, Clochar Na Trocaire, Beal An Atha, Co Mhaigh Eo",Mayo,84,76,0.904761905,6,3,6,2,6,20,1,1,0,0,0,0,2,0,1,0,0,7,0,0,8,1,5,3,2,0,0,2,0,0,0
+No,"St. Joseph's Secondary School, Foxford, Co. Mayo",Mayo,62,56,0.903225806,3,1,10,3,0,5,0,1,0,0,0,0,2,0,4,0,1,4,0,0,18,2,1,1,0,0,0,0,0,0,0
+No,"Our Lady's Secondary School, Logmore, Belmullet Via Ballina, Co. Mayo",Mayo,44,38,0.863636364,5,1,3,1,0,11,0,0,0,0,0,0,0,0,0,0,0,7,0,0,8,0,1,1,0,0,0,0,0,0,0
+No,"Coláiste Cholmain, Chlar Chlainne Mhuiris, Co Mhaigh Eo",Mayo,60,50,0.833333333,5,1,2,5,0,9,1,0,0,0,0,0,0,0,2,0,0,17,0,0,5,1,0,1,0,0,0,1,0,0,0
+No,"Community School, Convent Road, Ballinrobe, Co Mayo",Mayo,65,54,0.830769231,4,0,0,7,0,20,0,0,0,0,0,0,1,0,2,0,0,11,0,1,3,0,1,1,0,0,0,3,0,0,0
+No,"St Patrick's College, Lacken Cross, Killala, Co Mayo",Mayo,49,38,0.775510204,0,0,3,4,1,6,0,0,0,0,0,0,2,0,2,1,0,13,0,0,5,0,0,1,0,0,0,0,0,0,0
+No,"Scoil an Chroi Naofa, Cathair Na Mart, Co Mhaigh Eo",Mayo,82,61,0.743902439,7,1,4,5,0,13,1,0,0,0,0,0,2,0,2,0,0,13,1,0,8,0,1,0,0,2,0,0,0,1,0
+No,"Ballyhaunis Community School, Knock Road, Ballyhaunis, Co. Mayo",Mayo,99,73,0.737373737,6,2,2,10,0,12,0,0,0,0,0,0,2,0,1,0,0,17,0,1,7,1,1,5,0,1,0,5,0,0,0
+No,"Rice College, Westport, Co Mayo",Mayo,76,56,0.736842105,1,0,2,6,1,12,0,0,0,0,0,0,1,0,0,0,0,20,0,0,6,0,2,3,2,0,0,0,0,0,0
+No,"Mean Scoil Sancta Maria, Cluain Cearbhan, Cathair Na Mart, Co Mhaigh Eo",Mayo,48,35,0.729166667,1,1,1,3,0,16,0,1,0,0,0,0,0,0,0,1,0,4,2,0,2,0,1,1,0,0,0,1,0,0,0
+No,"Davitt College, Springfield, Castlebar, Co.Mayo",Mayo,116,80,0.689655172,5,2,5,7,1,15,0,1,0,1,0,0,1,0,3,2,1,16,0,1,10,1,3,3,0,0,0,2,0,0,0
+No,"St Brendan's College, Belmullet, Co Mayo",Mayo,61,42,0.68852459,6,0,3,2,1,8,2,0,0,0,0,0,2,0,0,0,0,9,0,0,6,0,1,0,0,1,0,1,0,0,0
+No,"Moyne College, Ballina, Co Mayo",Mayo,12,7,0.583333333,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0
+No,"St. Tiernan's College, Crossmolina, Ballina, Co Mayo",Mayo,31,16,0.516129032,1,0,0,2,0,2,0,2,0,0,0,0,0,0,0,0,0,3,0,0,5,0,0,0,0,0,0,1,0,0,0
+No,"St.Joseph's Community College, Charlestown, Co. Mayo",Mayo,36,12,0.333333333,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,0,0,0,0,1,0,1,0,0,0
+No,"Loreto Secondary School, St. Michael's, Navan, Co. Meath",Meath,155,151,0.974193548,20,15,21,0,27,7,7,0,0,0,8,1,12,1,1,0,14,1,3,4,1,1,1,0,2,2,0,0,2,0,0
+No,"St. Peter's College, Dunboyne, Co. Meath",Meath,174,157,0.902298851,18,23,27,0,33,0,1,0,0,3,6,2,32,2,1,1,1,2,0,1,0,0,0,0,1,1,0,0,2,0,0
+No,"Scoil Mhuire, Patrick's Street, Trim, Co. Meath",Meath,108,97,0.898148148,9,8,15,1,23,4,2,0,0,0,2,0,13,0,6,0,2,3,2,5,0,0,1,0,1,0,0,0,0,0,0
+No,"Ratoath College, Jamestown, Ratoath, Co. Meath",Meath,141,122,0.865248227,4,6,13,1,36,1,0,0,0,0,18,4,25,0,0,0,10,1,2,0,0,0,0,0,0,0,0,0,0,1,0
+No,"Boyne Community School, Dublin Road, Trim, Co. Meath",Meath,123,101,0.821138211,7,4,9,1,32,3,0,0,0,0,8,0,13,1,4,0,6,3,0,5,1,1,0,1,2,0,0,0,0,0,0
+No,"Dunshaughlin Community College, Dunshaughlin, Co Meath",Meath,149,119,0.798657718,16,8,18,2,19,3,1,1,0,1,11,1,20,0,1,0,2,1,3,0,0,2,0,0,5,0,0,0,3,1,0
+No,"St Patrick's Classical School, Moatlands, Navan, Co Meath",Meath,183,146,0.797814208,20,10,18,5,20,2,0,0,0,0,8,0,24,0,1,1,27,0,3,2,2,0,0,0,2,1,0,0,0,0,0
+No,"Ashbourne Community School, Deerpark, Ashbourne, Co Meath",Meath,145,114,0.786206897,5,8,32,0,10,0,0,0,0,0,8,5,27,0,0,0,16,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+No,"Eureka Secondary School, Convent Of Mercy, Kells, Co Meath",Meath,143,109,0.762237762,13,15,18,1,18,5,0,0,1,0,3,1,11,0,2,0,7,1,3,0,2,0,1,2,2,3,0,0,0,0,0
+No,"St Joseph's Mercy Secondary School, Brews Hill, Navan, Co. Meath",Meath,113,86,0.761061947,5,7,12,0,23,1,1,0,0,0,5,1,5,2,0,1,15,1,0,0,1,0,1,0,0,0,0,0,1,3,1
+No,"Coláiste San Froinsias, Baile Mhic Gormain, Co Na Mi",Meath,37,27,0.72972973,5,0,9,0,1,2,0,0,0,0,0,0,4,0,0,1,0,1,0,0,1,2,0,0,1,0,0,0,0,0,0
+No,"St Oliver's  Post Primary Sch., Oldcastle, Co. Meath",Meath,87,61,0.701149425,3,2,3,1,4,3,0,0,1,0,4,0,4,0,5,0,7,3,3,3,9,0,2,1,1,2,0,0,0,0,0
+No,"St Ciaran's Comm. School, Navan Rd., Kells, Co Meath",Meath,68,46,0.676470588,1,1,5,2,6,3,0,0,0,0,1,2,11,1,2,0,8,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+No,"O'Carolan College, Nobber, Kells, Co Meath",Meath,93,60,0.64516129,2,2,16,3,8,4,0,0,0,0,1,0,8,0,1,0,11,0,0,1,0,2,0,0,1,0,0,0,0,0,0
+No,"St. Fintina's Post Primary, Longwood, Enfield, Co Meath",Meath,48,26,0.541666667,1,1,2,0,2,0,1,0,0,0,2,0,4,1,9,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+No,"Coláiste na Hinse, Bettystown, Co Meath",Meath,112,57,0.508928571,6,3,8,0,3,3,0,0,0,0,2,3,9,0,0,0,18,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Athboy Community School, Athboy, Co Meath",Meath,103,52,0.504854369,2,1,1,0,9,4,1,1,0,0,4,1,3,1,11,1,5,3,0,0,2,0,1,0,0,0,0,1,0,0,0
+No,"Beaufort College, An Uaimh, Co Meath",Meath,68,27,0.397058824,0,0,0,0,3,0,0,0,0,0,4,0,5,0,0,1,10,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+No,"Coláiste Oiriall, An Champas Oideachais, Cnoc An Chonnaidh, Muineachán",Monaghan,32,33,1.03125,4,3,5,0,6,1,0,1,0,1,0,0,1,0,0,0,3,2,1,1,2,0,0,0,0,1,0,1,0,0,0
+No,"Ard Sc na mBraithre N Padraig, Carraig Mhachaire Rois, Co Mhuineachain",Monaghan,73,73,1,9,0,12,1,14,0,0,0,0,0,1,0,4,0,0,0,23,1,0,1,3,0,4,0,0,0,0,0,0,0,0
+No,"St. Macartan's College, Monaghan, Co. Monaghan",Monaghan,96,94,0.979166667,15,2,6,0,4,14,0,0,1,5,1,0,8,0,3,0,16,3,0,0,5,0,8,0,3,0,0,0,0,0,0
+No,"Our Lady's Secondary School, Laurel Hill, Castleblayney, Co Monaghan",Monaghan,102,94,0.921568627,13,5,21,2,6,2,0,1,0,1,0,0,5,0,0,0,23,0,0,2,4,0,7,0,0,0,1,0,0,1,0
+No,"Clochar Naomh Lughaidh, Carraig Mhachaire Rois, Co Mhuineachain",Monaghan,95,85,0.894736842,13,3,14,2,9,5,0,0,0,0,1,1,3,0,3,0,17,1,2,0,2,1,2,1,0,1,0,0,2,2,0
+No,"Largy College, Clones, Co. Monaghan",Monaghan,58,48,0.827586207,3,1,8,0,3,4,0,0,0,1,0,0,7,0,0,0,4,5,0,3,4,1,3,1,0,0,0,0,0,0,0
+No,"St Louis Secondary School, Monaghan, Co. Monaghan",Monaghan,81,64,0.790123457,8,1,22,0,6,4,2,0,0,2,1,0,1,0,0,0,5,2,0,0,3,0,5,0,0,0,0,0,2,0,0
+Yes,"Monaghan Collegiate School, Corlatt, Monaghan, Co Monaghan",Monaghan,36,28,0.777777778,0,1,2,0,1,1,0,1,1,2,0,1,2,2,0,0,3,1,0,2,2,2,3,0,0,0,0,0,1,0,0
+No,"An Ghairmscoil Inver College, Carraig Mhachaire Rois, Co Mhuineachain",Monaghan,56,42,0.75,5,3,3,2,5,0,0,0,0,0,1,0,1,0,0,0,16,0,0,2,1,1,2,0,0,0,0,0,0,0,0
+No,"Castleblayney College, Castleblayney, Co. Monaghan",Monaghan,50,36,0.72,1,1,3,0,0,2,0,0,0,0,0,0,1,0,0,0,15,0,0,0,1,0,10,0,0,1,0,0,1,0,0
+No,"Coláiste Pobal, Beal Atha Beithe, Co Mhuineachain",Monaghan,54,37,0.685185185,4,1,6,2,8,0,0,0,0,0,0,0,1,1,0,0,7,0,2,0,1,1,2,1,0,0,0,0,0,0,0
+No,"Beech Hill College, Monaghan",Monaghan,58,33,0.568965517,1,2,2,1,0,1,1,0,0,0,0,0,1,0,1,0,16,0,0,0,1,0,5,0,0,1,0,0,0,0,0
+No,"Sacred Heart Secondary School, Daingean Road, Tullamore, Co Offaly",Offaly,101,94,0.930693069,16,3,12,3,8,12,4,1,0,0,0,1,2,1,17,0,0,5,3,1,2,0,0,0,3,0,0,0,0,0,0
+No,"Banagher College Coláiste Na Sionna, Banagher Community College, Banagher, Co. Offaly",Offaly,82,69,0.841463415,2,0,1,10,3,11,0,0,0,0,1,0,2,0,15,1,0,4,0,4,2,0,0,4,2,0,0,7,0,0,0
+No,"Gallen Community School, Ferbane, Co. Offaly",Offaly,58,48,0.827586207,2,1,0,4,5,4,1,0,0,1,0,0,2,0,16,0,0,1,0,3,1,0,0,5,1,0,0,1,0,0,0
+No,"St. Mary's Secondary School, Edenderry, Co.Offaly",Offaly,149,117,0.785234899,9,4,11,11,20,5,0,0,0,0,1,0,11,2,20,0,2,1,0,6,1,1,0,1,8,1,0,0,1,1,0
+No,"Tullamore College, Riverside, Tullamore, Co Offaly",Offaly,77,59,0.766233766,2,0,1,4,4,7,0,0,0,0,0,0,2,0,33,1,0,1,0,0,1,0,0,2,0,0,0,0,0,1,0
+No,"St Brendan's Community School, Cappaneale, Birr, Co. Offaly",Offaly,135,100,0.740740741,9,1,4,15,10,9,1,0,0,0,0,0,6,0,10,0,0,5,0,1,0,3,0,11,9,0,0,6,0,0,0
+No,"Killina Secondary School, Rahan, Tullamore, Co Offaly",Offaly,86,61,0.709302326,2,0,4,3,5,8,1,0,0,0,1,0,0,0,28,1,0,2,0,1,3,0,1,0,1,0,0,0,0,0,0
+No,"Coláiste Choilm, Tulach Mhor, Co Uibh Fhaili",Offaly,78,54,0.692307692,4,2,1,6,1,9,0,0,0,0,0,0,8,0,15,0,0,2,1,2,0,1,0,2,0,0,0,0,0,0,0
+No,"Coláiste Naomh Cormac, Cill Chormac, Birr, Co Offaly",Offaly,43,29,0.674418605,2,0,0,0,0,5,0,1,0,0,0,0,1,0,11,0,0,2,0,2,1,1,0,1,1,0,0,1,0,0,0
+No,"Ard Scoil Chiarain Naofa, Frederick St, Clara, Co. Offaly",Offaly,23,15,0.652173913,0,0,1,0,3,0,0,0,0,0,0,0,0,0,8,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0
+No,"Oaklands Community College, Sr. Senan Avenue, Edenderry, Co. Offaly",Offaly,67,35,0.52238806,0,0,2,2,5,0,0,0,0,0,1,1,4,2,8,0,0,1,1,4,0,1,0,0,2,0,0,0,1,0,0
+No,"Elphin Community College, Elphin, Castlerea, Co Roscommon",Roscommon,12,13,1.083333333,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,1,3,0,0,3,0,0,0,1,0,0,0,0,0,0
+No,"CBS Roscommon, Abbeytown, Galway Road, Roscommon",Roscommon,52,52,1,6,0,6,1,4,12,0,0,0,0,0,0,1,0,6,0,0,6,0,3,6,0,0,1,0,0,0,0,0,0,0
+No,"Scoil Mhuire, Clochar Na Trocaire, Strokestown, Roscommon",Roscommon,67,66,0.985074627,6,4,9,6,1,7,0,0,0,0,0,0,4,0,4,0,0,12,2,2,7,1,0,1,0,0,0,0,0,0,0
+No,"Mean Scoil Muire Gan Smal, Clochar Na Trocaire, Roscomain",Roscommon,86,76,0.88372093,4,2,4,2,5,23,0,3,0,0,0,0,2,0,8,0,1,10,0,1,5,1,0,0,0,0,0,2,2,1,0
+No,"Coláiste Naithi Naofa, Bealach A Dóirín, Co Ros Comáin",Roscommon,114,97,0.850877193,4,2,7,4,3,17,1,0,0,1,0,0,1,1,4,0,0,17,0,0,20,0,7,7,0,0,0,0,1,0,0
+No,"Abbey Community College, Boyle, Co. Roscommon",Roscommon,66,47,0.712121212,2,1,3,1,1,5,3,4,0,0,0,0,0,0,1,0,0,10,0,0,12,0,2,0,1,0,0,1,0,0,0
+No,"Castlerea Community School, Castlerea, Co. Roscommon",Roscommon,77,54,0.701298701,2,0,1,1,1,15,0,1,0,0,0,0,2,0,5,0,1,14,0,0,3,1,5,1,0,0,0,1,0,0,0
+No,"Vocational School, Lisnamult, Roscommon,",Roscommon,22,11,0.5,0,0,1,0,1,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+No,"Grange Vocational School, Grange, Sligo",Sligo,11,20,1.818181818,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0,0,0,2,0,0,12,0,1,0,1,0,0,0,0,0,0
+No,"St. Mary's College, Ballysadare, Co. Sligo",Sligo,31,50,1.612903226,1,2,1,0,1,10,0,1,0,0,0,0,3,0,0,0,0,3,0,0,25,0,0,2,0,1,0,0,0,0,0
+No,"Coláiste Muire, Ballymote, Co. Sligo",Sligo,48,47,0.979166667,0,2,1,4,1,7,1,1,0,0,0,0,1,0,1,0,0,2,0,0,18,0,7,0,0,0,0,1,0,0,0
+No,"Summerhill College, College Road, Sligo",Sligo,111,104,0.936936937,8,4,9,4,7,18,0,1,0,0,0,0,2,0,2,0,0,6,0,0,39,0,1,1,0,1,0,0,0,1,0
+No,"Ursuline College, Finisklin, Sligo",Sligo,111,102,0.918918919,9,2,4,2,10,21,1,2,0,0,0,0,3,0,1,0,0,2,2,0,31,0,5,3,0,2,0,1,0,0,1
+No,"Jesus and Mary Secondary School, Pier Road, Enniscrone, Sligo",Sligo,44,40,0.909090909,2,1,1,5,3,6,0,1,0,0,0,0,1,0,4,1,0,2,0,0,7,1,2,3,0,0,0,0,0,0,0
+No,"St Attracta's Community School, Tubbercurry, Co. Sligo",Sligo,106,94,0.886792453,10,3,2,11,6,13,2,1,0,0,0,1,1,0,2,0,0,7,0,1,22,0,8,2,1,1,0,0,0,0,0
+Yes,"Sligo Grammar School Ltd, The Mall, Sligo",Sligo,78,67,0.858974359,4,4,3,3,1,17,1,0,0,0,0,1,3,0,1,0,0,2,0,1,12,9,2,1,0,0,0,0,1,0,1
+No,"Mercy College, Chapel Hill, Sligo",Sligo,62,52,0.838709677,3,4,3,1,0,8,2,4,1,1,0,0,0,0,1,0,0,0,0,1,19,0,1,0,0,2,0,1,0,0,0
+No,"Coola Post Primary School, Riverstown, Via Boyle, Co Sligo",Sligo,67,42,0.626865672,4,1,0,0,3,8,0,2,0,0,0,0,1,0,0,0,0,3,0,0,16,0,2,0,0,2,0,0,0,0,0
+No,"Coláiste Iascaigh, Easkey, Co. Sligo",Sligo,27,16,0.592592593,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5,0,2,0,0,0,0,0,0,0,0
+No,"Corran College, Ballymote, Co Sligo",Sligo,16,6,0.375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0
+No,"Ballinode Community College, Clarion Road, Sligo",Sligo,40,11,0.275,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0
+Yes,"Cistercian College, Roscrea, Co. Tipperary",Tipperary N.R.,39,50,1.282051282,12,6,6,2,2,8,1,0,0,0,0,1,3,0,0,1,1,0,0,0,0,0,1,1,4,0,0,1,0,0,0
+No,"Clochar na Nursulach, Thurles, Co. Tipperary",Tipperary N.R.,135,132,0.977777778,21,10,3,16,2,5,30,0,0,0,0,0,2,0,0,2,0,0,2,1,1,2,0,10,13,0,0,10,0,2,0
+No,"Scoil Muire, Clochar Na Trocaire, Newport, Tipperary N.R.",Tipperary N.R.,83,81,0.975903614,2,0,0,32,0,4,2,0,0,0,0,0,0,0,2,2,0,2,0,0,0,0,0,24,2,0,0,9,0,0,0
+No,"Our Lady's Secondary School, An Teampall Mor, Co Thiobrad Arann",Tipperary N.R.,57,54,0.947368421,1,1,0,10,5,2,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,1,0,14,10,0,0,5,0,0,0
+No,"Presentation Secondary School, Thurles, Co. Tipperary",Tipperary N.R.,96,81,0.84375,4,6,5,8,0,4,16,0,0,0,0,0,0,0,0,3,0,3,0,3,0,2,0,7,13,0,0,6,0,1,0
+No,"Scoil na mBraithre Criostai, Durlas, Co Thiobraid Arann",Tipperary N.R.,102,80,0.784313725,0,1,0,17,0,2,10,0,0,0,0,0,2,0,1,13,0,0,0,2,0,0,0,15,9,0,0,8,0,0,0
+No,"St Mary's Secondary School, Convent Of Mercy, Nenagh, Co Tipperary",Tipperary N.R.,99,77,0.777777778,9,1,1,14,4,19,8,0,0,0,0,0,1,0,0,2,0,0,0,0,0,1,0,8,4,0,0,4,0,0,1
+No,"St Joseph's CBS Secondary School, Summerhill, Nenagh, Co. Tipperary",Tipperary N.R.,67,52,0.776119403,3,1,1,17,0,8,3,0,0,0,0,0,0,0,0,1,0,0,0,3,1,1,0,9,1,0,0,3,0,0,0
+No,"Borrisokane Community College, Borrisokane, Co. Tipperary",Tipperary N.R.,64,49,0.765625,2,2,0,10,1,6,2,0,0,0,0,0,0,0,3,1,2,4,0,1,0,0,0,6,5,0,0,4,0,0,0
+No,"Newport College, Black Road, Newport, Co. Tipperary",Tipperary N.R.,15,10,0.666666667,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+No,"Coláiste Phobal Ros Cré, Roscrea, Co. Tipperary",Tipperary N.R.,100,65,0.65,2,2,0,17,1,4,0,0,0,0,0,0,1,0,2,2,0,4,0,4,0,2,1,14,6,0,0,2,1,0,0
+No,"Nenagh College, Dromin Road,, Nenagh,, Co. Tipperary",Tipperary N.R.,53,34,0.641509434,2,0,2,4,0,2,0,0,0,0,0,0,0,0,0,4,0,2,0,0,1,1,0,9,3,0,0,3,0,0,1
+No,"St. Joseph's College, Borrisoleigh, Thurles, Co. Tipperary",Tipperary N.R.,60,38,0.633333333,1,2,0,11,1,2,5,0,0,0,0,0,1,0,1,2,0,1,0,0,0,0,0,9,1,0,0,1,0,0,0
+No,"Coláiste Mhuire Co-Ed, Castlemeadows, Thurles, Co. Tipperary",Tipperary N.R.,22,9,0.409090909,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+No,"Loreto Secondary School, Clonmel, Co Tipperary",Tipperary S.R.,85,92,1.082352941,4,4,2,11,2,1,20,0,0,0,0,0,4,0,0,5,0,0,0,1,0,0,0,2,21,0,0,15,0,0,0
+No,"Scoil Mhuire, Greenhill, Carrick On Suir, Co Tipperary",Tipperary S.R.,80,83,1.0375,4,2,2,7,2,1,11,0,0,0,0,0,1,0,0,8,0,1,0,2,1,0,1,2,33,0,0,5,0,0,0
+No,"The Abbey School, Station Road, Tipperary Town, Co. Tipperary",Tipperary S.R.,60,60,1,2,4,2,7,0,3,12,0,0,0,0,0,1,0,0,17,0,1,0,0,0,2,0,6,3,0,0,0,0,0,0
+Yes,"Rockwell College, Cashel, Co Tipperary",Tipperary S.R.,106,95,0.896226415,22,9,2,13,4,3,13,0,1,0,0,0,4,0,1,12,0,1,0,0,1,0,0,3,2,0,0,3,0,0,1
+No,"Cashel Community School, Cashel, Co. Tipperary",Tipperary S.R.,117,87,0.743589744,3,6,0,4,1,2,26,0,0,0,0,0,1,0,0,11,0,2,0,0,0,0,0,10,17,0,0,3,0,0,1
+No,"Scoil na mBraithre, Carraig Na Siuire, Co. Tipperary",Tipperary S.R.,38,28,0.736842105,0,0,0,3,0,0,4,0,0,0,0,0,0,0,0,4,1,1,0,2,1,0,1,2,8,0,0,1,0,0,0
+No,"Ard Scoil na mBraithre, Cluain Meala, Co. Tipperary",Tipperary S.R.,143,105,0.734265734,5,1,1,17,1,4,17,0,0,0,0,0,0,0,0,17,0,0,1,4,0,0,0,11,21,0,0,3,0,0,2
+No,"Scoil Ruáin, Killenaule, Thurles, Co Tipperary",Tipperary S.R.,47,33,0.70212766,0,1,1,2,1,2,5,0,0,0,0,0,2,0,1,3,0,1,0,1,0,1,0,3,9,0,0,0,0,0,0
+No,"St Anne's Secondary School, Convent Of Mercy, Tipperary",Tipperary S.R.,49,33,0.673469388,1,0,0,4,1,3,5,1,0,0,0,0,1,0,0,3,0,0,0,1,0,0,0,6,5,0,0,2,0,0,0
+No,"Clochar na Toirbhirte, Ballingarry, Thurles, Co Tipperary",Tipperary S.R.,39,26,0.666666667,1,0,0,5,0,1,0,0,0,0,0,0,2,0,0,1,0,0,0,1,1,0,0,5,7,0,0,2,0,0,0
+No,"Presentation Secondary School, Dungarvan Road, Clonmel, Co. Tipperary",Tipperary S.R.,86,51,0.593023256,5,0,0,3,3,3,11,0,0,0,0,0,1,0,0,5,1,1,0,3,0,0,0,2,12,0,0,1,0,0,0
+No,"St. Ailbe's School, Rosanna Road, Tipperary Town, Co. Tipperary",Tipperary S.R.,46,26,0.565217391,0,0,0,5,2,0,4,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5,4,0,0,4,0,0,0
+No,"Comeragh College, Greenside, Carrick-On-Suir, Co. Tipperary",Tipperary S.R.,51,27,0.529411765,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,1,0,2,19,0,0,0,0,0,0
+No,"Coláiste Dun Iascaigh, Cashel Road, Cahir, Co. Tipperary",Tipperary S.R.,115,59,0.513043478,2,0,0,4,0,1,8,0,0,0,0,0,0,0,0,13,2,1,0,1,1,1,0,5,17,0,0,2,1,0,0
+No,"Central Technical Institute, Raheen Road, Clonmel, Co. Tipperary",Tipperary S.R.,43,22,0.511627907,2,0,0,3,1,0,0,0,0,0,0,0,1,0,0,5,0,0,1,0,0,0,0,3,6,0,0,0,0,0,0
+No,"Patrician/Presentation Sec.Sc., Fethard, Clonmel, Co Tipperary",Tipperary S.R.,14,5,0.357142857,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0
+No,"St Augustine's College, Abbeyside, Dungarvan, Co Waterford",Waterford,102,109,1.068627451,6,6,7,15,2,4,23,0,0,0,0,0,3,0,1,15,0,1,0,1,0,0,0,1,19,0,0,4,0,1,0
+No,"St Angela's School, Ursuline Convent, Waterford",Waterford,121,127,1.049586777,13,6,7,4,3,2,20,1,0,0,0,0,0,1,0,1,0,1,2,2,0,1,0,2,52,1,0,6,2,0,0
+No,"Scoil na mBraithre, Mitchell Street, Dungarvan, Co. Waterford",Waterford,42,40,0.952380952,3,0,1,7,0,0,6,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,1,17,0,0,1,0,1,0
+No,"Mean Scoil San Nioclás, Rinn Ua Gcuanach, Dun Garbhan, Co. Phortlairge",Waterford,24,22,0.916666667,1,3,0,1,1,1,4,0,0,0,0,0,1,0,0,5,0,0,0,1,0,0,0,0,2,0,0,1,0,0,1
+No,"Ard Scoil Na Ndéise, Convent Road, Dungarvan, Co Waterford",Waterford,56,51,0.910714286,1,2,1,5,0,1,13,0,0,0,0,0,0,0,0,4,0,1,0,3,0,2,0,2,13,1,0,2,0,0,0
+No,"Our Lady of Mercy Sec Sch, Ozanam St, Waterford City",Waterford,103,92,0.893203883,5,2,0,3,1,0,17,1,0,1,0,0,1,0,0,4,1,0,0,0,0,0,0,1,55,0,0,0,0,0,0
+No,"Gaelcholáiste Phort Láirge, Cúirt An Easpaig, Baile Mhic Ghunair, Port Láirge",Waterford,19,16,0.842105263,5,0,1,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0
+No,"Coláiste na Maighdine, Presentation Secondary School, Cannon Street, Waterford",Waterford,45,37,0.822222222,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,30,0,0,3,0,0,0
+No,"Abbey Community College, Ferrybank, Waterford",Waterford,118,95,0.805084746,3,1,4,12,5,0,14,0,0,0,0,0,2,0,1,2,0,1,1,1,0,0,1,0,43,0,0,4,0,0,0
+No,"St Pauls Community College, Browne's Road, Waterford",Waterford,50,40,0.8,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,38,0,0,0,0,0,0
+No,"Coláiste De La Salle, Newtown Rd.,, Portlairge",Waterford,221,172,0.778280543,9,8,5,17,9,0,19,0,0,0,0,0,1,0,0,8,1,0,1,1,0,1,0,0,92,0,0,0,0,0,0
+No,"St. Declan's Community College, Kilmacthomas, Co Waterford",Waterford,95,70,0.736842105,2,2,1,8,0,1,13,0,0,0,0,1,0,0,0,5,0,0,1,1,0,1,0,0,28,0,1,2,0,0,3
+No,"Waterpark College, Park Road, Waterford",Waterford,48,35,0.729166667,1,1,3,4,1,3,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,17,0,0,0,0,0,0
+No,"Blackwater Community School, Tallow Road, Lismore, Co. Waterford",Waterford,106,71,0.669811321,0,1,0,10,1,0,20,1,0,0,0,0,0,0,0,18,0,0,0,0,0,1,0,3,11,1,0,4,0,0,0
+No,"Newtown School, Newtown Road, Waterford City",Waterford,45,29,0.644444444,7,3,5,0,1,1,1,0,0,0,0,2,2,0,0,1,0,0,0,0,0,0,0,0,5,0,0,1,0,0,0
+No,"Ard Scoil Na Mara., Tramore, Co. Waterford",Waterford,170,105,0.617647059,8,2,0,14,0,2,28,0,0,0,0,0,2,1,0,5,0,1,0,2,0,1,0,4,33,0,0,2,0,0,0
+No,"Coláiste Chathail Naofa, Youghal Road, Dungarvan, Co. Waterford",Waterford,18,8,0.444444444,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,0,0,0
+No,"St Joseph's College, Summerhill, Athlone, Co Westmeath",Westmeath,20,33,1.65,1,1,4,1,1,7,0,0,0,0,0,0,0,0,11,0,0,2,0,1,1,1,0,1,0,1,0,0,0,0,0
+No,"Moate Community School, Moate, Co. Westmeath",Westmeath,102,101,0.990196078,8,3,6,8,11,10,2,0,0,0,1,0,2,0,25,0,0,6,1,2,6,1,0,3,5,0,1,0,0,0,0
+No,"Our Lady's Bower Secondary School, Retreat Road, Athlone, Co Westmeath",Westmeath,104,100,0.961538462,19,8,6,6,7,19,2,0,0,0,2,1,3,0,16,0,0,7,0,0,1,0,0,2,0,0,0,0,1,0,0
+No,"Marist College, Retreat Road, Athlone, Co. Westmeath",Westmeath,88,79,0.897727273,11,4,12,7,3,8,0,0,0,0,0,0,1,0,23,0,0,6,1,0,0,0,0,1,0,0,0,1,0,1,0
+No,"St Finian's College, Mullingar, Co Westmeath",Westmeath,109,95,0.871559633,8,4,17,2,8,14,1,0,0,0,1,1,6,0,17,2,1,4,0,0,5,0,0,3,0,1,0,0,0,0,0
+No,"Athlone Community College, Retreat Road, Athlone, Co Westmeath",Westmeath,150,125,0.833333333,9,2,9,8,4,21,1,0,0,0,0,1,7,0,46,0,0,7,1,0,4,0,0,1,0,1,0,2,0,1,0
+No,"Coláiste Mhuire, College Street, An Muileann Gcearr, Co Na Hiarmhi",Westmeath,179,145,0.810055866,14,9,20,3,29,26,1,0,0,0,1,2,7,0,12,0,4,2,0,1,11,2,0,0,0,0,0,0,0,1,0
+No,"St Joseph's Secondary, Rochfortbridge, Co Westmeath",Westmeath,146,117,0.801369863,9,2,13,3,27,9,0,1,0,0,0,0,9,2,25,0,1,8,0,0,4,0,1,1,1,1,0,0,0,0,0
+No,"Loreto College, Mullingar, Co Westmeath",Westmeath,116,86,0.74137931,4,4,13,2,17,11,0,0,0,0,2,0,5,0,13,0,2,4,0,1,6,0,0,0,0,1,0,0,0,1,0
+No,"Mean Scoil an Chlochar, Kilbeggan, Co Westmeath",Westmeath,54,39,0.722222222,1,1,3,2,4,4,1,1,0,0,0,0,1,1,9,0,0,4,3,0,1,0,0,1,0,0,0,0,0,2,0
+No,"St Aloysius College, The Park, Athlone, Co. Westmeath",Westmeath,98,70,0.714285714,6,2,7,3,8,14,1,1,0,0,2,1,0,0,12,0,0,6,0,0,1,0,1,1,0,1,0,1,0,2,0
+No,"Wilson's Hospital School, Multyfarnham, Mullingar, Co Westmeath",Westmeath,63,44,0.698412698,8,2,2,1,5,7,0,0,0,0,0,2,3,0,6,0,0,3,0,3,2,0,0,0,0,0,0,0,0,0,0
+No,"Mullingar Community College, Millmount Road, Mullingar, Co. Westmeath",Westmeath,44,29,0.659090909,0,0,0,1,5,3,0,1,0,0,1,0,0,0,10,0,0,2,1,0,5,0,0,0,0,0,0,0,0,0,0
+No,"Castlepollard Comm. College, Mullingar Road, Castlepollard, Co Westmeath",Westmeath,20,13,0.65,0,0,0,0,5,0,0,0,0,0,1,0,1,0,2,0,0,0,0,2,0,0,1,0,0,0,0,0,1,0,0
+No,"Columba College, Killucan, Co. Westmeath",Westmeath,31,11,0.35483871,1,1,0,0,0,0,0,0,0,0,0,0,0,1,5,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+No,"Our Lady of Lourdes, Holy Faith Convent, Rosbercon, New Ross,, Co Wexford",Wexford,56,63,1.125,3,0,4,5,5,2,8,2,1,0,0,0,3,0,1,0,0,0,0,5,0,0,0,1,20,0,0,3,0,0,0
+No,"St Peter's College, Summerhill, Wexford",Wexford,126,118,0.936507937,18,6,26,6,6,3,3,0,0,0,0,0,15,0,1,1,0,1,1,6,0,1,1,3,19,0,0,0,1,0,0
+No,"Presentation Sec School, Grogan's Road, Wexford",Wexford,105,98,0.933333333,11,4,6,2,10,7,3,0,0,0,0,0,4,1,0,0,0,1,1,21,0,0,0,0,27,0,0,0,0,0,0
+No,"F.C.J. Secondary School, Bunclody, Enniscorthy, Co Wexford",Wexford,134,123,0.917910448,20,5,23,8,11,3,2,2,0,0,0,0,13,0,2,0,0,1,1,17,0,1,0,2,12,0,0,0,0,0,0
+No,"Loreto Convent, SpBGell Road, Wexford",Wexford,119,109,0.915966387,17,12,27,3,13,4,5,0,0,0,0,0,3,0,0,0,2,0,0,10,0,0,0,0,12,1,0,0,0,0,0
+No,"Good Counsel College, New Ross, Co Wexford",Wexford,126,114,0.904761905,12,3,19,11,5,0,4,0,0,0,0,0,10,0,0,3,0,0,0,7,1,0,0,3,34,0,0,2,0,0,0
+No,"St Mary's C.B.S., Mill Park Road, Enniscorthy, Co. Wexford",Wexford,100,90,0.9,4,1,4,12,5,0,4,0,0,0,0,1,6,1,2,1,0,0,1,18,0,1,0,5,21,0,0,0,3,0,0
+No,"St. Mary's Secondary School, New Ross, Co. Wexford",Wexford,89,77,0.865168539,10,1,6,8,3,1,12,1,0,0,0,0,1,0,1,1,0,0,0,4,0,0,0,1,20,0,0,7,0,0,0
+No,"Meanscoil Garman, Teach Coill An Bhronaigh, Brownswood, Enniscorthy",Wexford,22,18,0.818181818,2,3,2,0,6,2,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Ramsgrane Community School, Ramsgrange, New Ross, Co Wexford",Wexford,58,46,0.793103448,2,0,1,3,0,1,3,0,0,0,1,0,1,0,0,2,0,1,0,3,0,0,0,0,27,0,0,0,1,0,0
+No,"Gorey Community School, Esmonde Street, Gorey, Co. Wexford",Wexford,218,169,0.775229358,42,5,16,2,18,1,4,0,0,1,1,2,14,1,3,0,0,1,9,30,0,0,1,4,11,0,0,1,2,0,0
+No,"Coláiste Bride, Clochar Na Trocaire, Cnoc Fiodh Na Gcaor, Inis Corthaidh",Wexford,122,94,0.770491803,10,2,15,3,1,3,7,0,0,0,0,0,6,0,0,1,2,0,8,13,0,0,0,4,18,0,0,0,1,0,0
+No,"Scoil na mBraithre, Coláiste Eamonn Ris, Thomas Street, Wexford",Wexford,115,80,0.695652174,5,2,7,0,9,3,9,0,0,0,0,0,5,0,0,1,0,0,2,13,1,0,1,1,20,1,0,0,0,0,0
+No,"Bridgetown Vocational College, Bridgetown, Co. Wexford",Wexford,85,55,0.647058824,2,0,2,1,5,1,1,0,0,0,0,0,4,0,0,1,0,2,1,16,0,0,0,0,19,0,0,0,0,0,0
+No,"CBS Secondary School, Ros Mhic Treoin, Co Loch Garman",Wexford,41,26,0.634146341,0,0,0,1,2,0,0,0,0,0,0,1,1,0,0,4,0,0,0,4,0,0,0,1,12,0,0,0,0,0,0
+No,"Coláiste an Atha, Kilmuckridge, Gorey, Co Wexford",Wexford,34,21,0.617647059,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,7,0,0,0,0,7,0,0,0,0,0,0
+No,"Wexford Vocational College, Westgate, Wexford",Wexford,46,28,0.608695652,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,20,0,0,0,0,3,0,0,0,0,0,0
+No,"Adamstown Vocational College, Adamstown, Enniscorthy, Co Wexford",Wexford,22,13,0.590909091,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,2,8,0,0,0,0,0,0
+No,"Enniscorthy Vocational College, Mile House Road, Enniscorthy, Co. Wexford",Wexford,51,23,0.450980392,2,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,11,0,1,0,0,5,0,0,0,0,0,0
+No,"New Ross Vocational School, New Ross, Co Wexford",Wexford,20,7,0.35,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0,0,0,0,0
+No,"Bunclody Vocational School, Irish Street, Bunclody, Co. Wexford",Wexford,24,8,0.333333333,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0,2,0,0,0,0,0,0
+No,"East Glendalough Comp. School, Station Road, Wicklow Town, Co. Wicklow",Wicklow,61,65,1.06557377,14,9,1,3,3,2,0,0,0,0,1,0,10,0,1,0,2,4,7,2,1,0,0,1,3,0,0,0,1,0,0
+Yes,"St. Gerard's School, Thornhill Road, Bray, Co. Wicklow",Wicklow,83,86,1.036144578,28,14,2,1,4,5,0,0,0,0,0,2,23,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,1,0,0
+No,"Gaelcholáiste na Mara, Pairc Na Bpiarsach, Bóthar na nGleanntáin, Arklow",Wicklow,23,21,0.913043478,6,0,3,1,3,4,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+No,"Loreto Secondary School, Vevay Rd, Bray, Co. Wicklow",Wicklow,154,134,0.87012987,41,9,6,0,7,5,0,0,0,0,1,6,31,3,1,1,1,1,12,4,0,0,0,0,1,2,0,0,2,0,0
+No,"St David's Holy Faith Sec School, Greystones, Co Wicklow",Wicklow,89,77,0.865168539,21,5,1,0,2,0,1,0,0,0,3,1,22,4,0,0,0,0,10,3,0,0,0,0,1,1,0,0,1,1,0
+No,"St Mary's College, St. Mary's Road, Arklow, Co. Wicklow",Wicklow,80,69,0.8625,15,1,7,1,6,2,2,0,0,0,0,4,5,1,2,0,4,1,4,5,1,0,0,0,8,0,0,0,0,0,0
+No,"Presentation College Bray, Putland Road, Bray, Co Wicklow",Wicklow,94,81,0.861702128,23,4,1,0,2,0,1,0,0,0,1,4,31,2,0,0,1,0,10,0,0,0,0,0,1,0,0,0,0,0,0
+No,"Coláiste Raithín, Bothar Florans, Bré, Co. Chill Mhaintáin",Wicklow,33,28,0.848484848,6,1,3,1,1,0,0,0,0,0,0,0,7,1,0,1,2,0,2,1,0,0,0,1,0,1,0,0,0,0,0
+No,"Coláiste Bhride, Carnew, Co Wicklow",Wicklow,120,100,0.833333333,17,3,6,4,12,2,3,0,0,0,1,0,10,0,2,1,4,2,2,16,0,0,3,1,10,1,0,0,0,0,0
+No,"Dominican Convent, Wicklow Town, Co. Wicklow,",Wicklow,54,44,0.814814815,8,4,6,0,0,4,2,1,0,0,0,1,6,0,1,0,0,0,2,3,0,0,0,0,4,0,0,0,1,0,1
+No,"St Brendan's College, Woodbrook, Bray, Co Wicklow",Wicklow,27,20,0.740740741,2,2,0,0,0,0,0,0,0,0,0,1,5,2,0,0,0,1,6,1,0,0,0,0,0,0,0,0,0,0,0
+No,"Coláiste Chill Mhantáin, Burkeen, Wicklow, Co. Wicklow",Wicklow,98,70,0.714285714,12,4,7,0,4,4,1,0,0,0,0,1,14,2,2,3,0,3,1,3,0,0,2,0,7,0,0,0,0,0,0
+No,"Community College, Blessington, Naas Road, Co. Wicklow",Wicklow,45,32,0.711111111,2,1,0,1,1,0,1,0,0,0,0,0,13,6,0,0,0,0,0,5,0,0,1,0,1,0,0,0,0,0,0
+No,"Arklow Community College, Arklow, Co Wicklow",Wicklow,34,22,0.647058824,0,1,0,0,3,0,0,0,0,0,1,0,1,2,0,0,0,0,0,8,0,0,0,1,5,0,0,0,0,0,0
+No,"Arklow CBS, Coolgreaney Road, Arklow, Co Wicklow",Wicklow,37,23,0.621621622,5,1,2,0,0,0,0,0,0,0,0,0,4,1,0,0,0,1,1,2,0,0,1,0,5,0,0,0,0,0,0
+No,"Scoil Chonglais Post Primary, Baltinglass, Co. Wicklow,",Wicklow,87,53,0.609195402,5,0,5,2,1,3,1,0,0,0,1,0,2,0,0,0,0,1,0,17,0,2,0,1,10,1,1,0,0,0,0
+No,"Coláiste Chraobh Abhann, Creowen, Kilcoole, Co. Wicklow",Wicklow,78,46,0.58974359,10,1,2,1,1,0,1,0,0,0,1,2,10,0,4,0,0,0,6,5,0,1,0,0,1,0,0,0,0,0,0
+No,"St. Kevin's Community College, Dunlavin, Co Wicklow",Wicklow,95,52,0.547368421,3,4,5,1,7,2,0,0,0,0,1,0,7,2,0,0,0,1,0,12,1,0,1,0,3,0,0,0,2,0,0
+No,"Avondale Community College, Rathdrum, Co. Wicklow",Wicklow,81,44,0.543209877,6,0,3,1,4,0,1,0,0,0,3,2,8,1,0,0,1,0,3,6,0,0,0,0,5,0,0,0,0,0,0
+No,"St Kilian's Community School, Ballywaltrim, Bray, Co Wicklow",Wicklow,48,26,0.541666667,3,0,2,0,0,0,1,0,0,0,0,0,10,2,1,0,0,0,2,1,1,0,0,1,1,1,0,0,0,0,0
+No,"St Thomas Community College, Novara Avenue, Bray, Co. Wicklow",Wicklow,38,14,0.368421053,6,1,1,0,1,0,0,0,0,0,1,0,1,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
