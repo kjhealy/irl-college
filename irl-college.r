@@ -191,11 +191,15 @@ sankey.nd3 <- function(data=data.d3,
     require(car)
     require(dplyr)
 
+    ## Subset rows
     data <- data[subs,]
     colnames(data) <- c("source", "target", "value")
 
+    ## Recode some institutions to "Other" category
+    ## Ugly nested paste because of the format car's recode() uses
     data$target <- recode(data$target, paste("c(", make.recode(to.other), ") = 'Other'", sep=""))
 
+    ## Remove duplicate rows
     data <- data %>%
         group_by(source, target) %>%
         mutate(value = sum(value)) %>%
@@ -204,10 +208,18 @@ sankey.nd3 <- function(data=data.d3,
     data$source <- droplevels(data$source)
     data$target <- droplevels(data$target)
 
+    ## Set up node labels -- sankeyNetwork() wants a vector of
+    ## all source and target labels, so we concatenate them
     node.names <- c(levels(data$source), levels(data$target))
     node.names <- data.frame(node.names)
     colnames(node.names) <- "name"
 
+    ## sankeyNetwork() wants source and target data as unique numbers
+    ## rather than as factors. We coerce the source from factor
+    ## to numeric values, and then subtract 1 because javascript
+    ## indexing starts from 0. Then we coerce the target factor
+    ## and make sure the numbering starts from one more than the
+    ## maximum numeric value of the source vector.
     data$source <- as.numeric(data$source) - 1
     data$target <- as.numeric(data$target) + max(data$source)
 
